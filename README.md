@@ -14,9 +14,9 @@ Most doors don't open. The ones that do are worth finding.
 | [The Armory](armory/) | ⛩️ Open |
 | [Seven Shadow System](seven-shadow-system/) | ⛩️ Open |
 | [SyncLink](synclink/) | ⛩️ Open |
-| [Shadow Gate](shadow-gate/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
 | [Shadow Court Anime](shadow-court-anime/) | ⛩️ Open |
+| Shadow Gate | 🌀 |
 | Faye | 🌀 |
 | Grimoire | 🌀 |
 | Dojo | 🌀 |

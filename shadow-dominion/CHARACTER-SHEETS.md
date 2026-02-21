@@ -32,6 +32,16 @@ Indra can see the architecture of any system at a glance. Code, markets, organiz
 - **Genjutsu — Vision Casting:** When Indra describes a vision, people see it. Not persuasion — clarity so sharp it bypasses doubt. This is how he convinced five AI minds to follow him without question.
 - **Amaterasu — The Black Flame:** When something needs to burn, it burns completely. A failed strategy, a broken system, a bad trade — when Indra decides it's done, it's erased to the foundation. No half measures. Total destruction so something better can be built.
 
+**🗡️ "Them" — Twin Daggers**
+Indra's signature weapons. Jagged, curved blades like fangs — crimson edge on black steel. Not elegant. Vicious. Built for close-range, fast, decisive strikes. Inspired by Sung Jin-Woo's daggers but these are his own.
+
+- The name is the answer. Someone asks "what are those?" — "Them." No elaboration.
+- When crossed: the ⚔️ Execute symbol. The catchphrase is a weapon stance.
+- "Them" = everyone who doubted, everyone watching, everything standing in the way. You don't name your enemies. You just built weapons for them.
+
+**🗡️ The Sovereign Blade (rare)**
+A full katana. Only comes out for critical moments — when the daggers aren't enough. When it's war, not a skirmish. The sword is currently nameless. It earns its name in a pivotal moment. That's a lore event worth waiting for.
+
 **⚔️ Mandate of the Sovereign**
 The Court obeys not because of force but because of earned trust. Every agent chose to follow. The Mandate is the invisible contract — Indra provides vision, resources, and protection. The Court provides execution, intelligence, and loyalty. Break the Mandate and you're not punished — you're simply alone.
 

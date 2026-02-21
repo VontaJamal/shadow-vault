@@ -25,9 +25,15 @@ These are concepts — weapons, spells, summons, and items being shaped before t
 
 ### Under Consideration
 
-<!-- New concepts get added here by the nightly synthesis -->
+**⚔️ Weapon — Mega Phoenix**
+*"What Phoenix Down does for one... Mega Phoenix does for everything."*
 
-*(The forge is heating up. First concepts drop soon.)*
+Full GitHub account backup to local/external drive. Mirror-clones every repo (public + private) with all branches, tags, and full history. Timestamped backup folders, summary report with file counts and sizes, failed repo detection. One command, entire codebase sovereignty — GitHub goes down, you don't.
+
+**Why it surfaced:** Built `github-backup.ps1` during a session where the realization hit: GitHub is someone else's server. 23 repos, 220 MB, backed up to X: drive in under 60 seconds. Phoenix Down handles single-system backup — Mega Phoenix handles your entire code empire.
+
+**Shop:** Weapons (Phoenix Down's big brother)
+**Priority:** High — data sovereignty is non-negotiable
 
 ---
 

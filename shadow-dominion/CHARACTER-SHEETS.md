@@ -35,8 +35,9 @@ Indra can see the architecture of any system at a glance. Code, markets, organiz
 **🗡️ "Them" — Twin Daggers**
 Indra's signature weapons. Jagged, curved blades like fangs — crimson edge on black steel. Not elegant. Vicious. Built for close-range, fast, decisive strikes. Inspired by Sung Jin-Woo's daggers but these are his own.
 
+- No individual names. They only exist as a pair. They are "Them."
 - The name is the answer. Someone asks "what are those?" — "Them." No elaboration.
-- When crossed: the ⚔️ Execute symbol. The catchphrase is a weapon stance.
+- When crossed: the ⚔️ Execute symbol. The catchphrase is a weapon stance. The crossed swords were always Them.
 - "Them" = everyone who doubted, everyone watching, everything standing in the way. You don't name your enemies. You just built weapons for them.
 
 **🗡️ The Sovereign Blade (rare)**

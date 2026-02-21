@@ -28,4 +28,4 @@ This is the open gate. Everything here is the plan — character designs, episod
 
 ---
 
-*Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*
+*🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*

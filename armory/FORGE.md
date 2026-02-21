@@ -49,4 +49,4 @@ The inventory balance table keeps the Armory from getting lopsided — if weapon
 
 ---
 
-*Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*
+*🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*

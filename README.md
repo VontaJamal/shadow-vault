@@ -1,4 +1,4 @@
-# The Vault
+﻿# The Vault
 
 You're inside.
 
@@ -22,4 +22,4 @@ Most doors don't open. The ones that do are worth finding.
 
 ---
 
-*Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*
+*🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*

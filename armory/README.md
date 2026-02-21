@@ -78,4 +78,4 @@ Things I'm weighing — if you have thoughts, [open an Issue](https://github.com
 
 ---
 
-*Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*
+*🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*

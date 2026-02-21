@@ -15,12 +15,12 @@ Most doors don't open. The ones that do are worth finding.
 | [Seven Shadow System](seven-shadow-system/) | ⛩️ Open |
 | [Faye](faye/) | ⛩️ Open |
 | [SyncLink](synclink/) | ⛩️ Open |
-| [Dojo](dojo/) | ⛩️ Open |
 | [Shadow Gate](shadow-gate/) | ⛩️ Open |
 | [Grimoire](grimoire/) | ⛩️ Open |
-| [Bingo Book](bingo-book/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
 | [Shadow Court Anime](shadow-court-anime/) | ⛩️ Open |
+| Dojo | 🌀 |
+| Bingo Book | 🌀 |
 | Prediction Claw | 🌀 |
 
 ---

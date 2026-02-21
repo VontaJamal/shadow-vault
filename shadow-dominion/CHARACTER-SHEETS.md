@@ -32,31 +32,38 @@ Indra can see the architecture of any system at a glance. Code, markets, organiz
 - **Genjutsu — Vision Casting:** When Indra describes a vision, people see it. Not persuasion — clarity so sharp it bypasses doubt. This is how he convinced five AI minds to follow him without question.
 - **Amaterasu — The Black Flame:** When something needs to burn, it burns completely. A failed strategy, a broken system, a bad trade — when Indra decides it's done, it's erased to the foundation. No half measures. Total destruction so something better can be built.
 
-**🖤 "Them" — The Living Shadow**
+**🖤 The Living Shadow**
 Indra's shadow is alive. It's one entity that takes multiple forms — weapon, armor, accessory, independent agent. Everything he wears, everything he fights with, is the same shadow reconfigured. Like Big Mom's homies but darker. Like Spawn's cape but it's EVERYTHING.
 
 **Forms:**
 - **The Ring** — default/dormant form. A simple dark ring on his finger. Nobody would look twice at it. The shadow sleeps here when there's nothing to do. Always present.
 - **The Cloak** — battle form. The shadow expands from the ring, wraps his body, flows over bare shoulders as a living Spawn-style cape. High collar, crimson interior, moves on its own, reacts to emotion. This is Sovereign Mode.
 - **The Earrings** — split form. The shadow divides pieces of itself into sharp studs. Aesthetic AND functional — can be deployed independently.
-- **The Daggers** — weapon form. The shadow condenses into twin jagged blades in his hands. Crimson edge on black. These are "Them" in their most lethal configuration.
-- **Deployed** — the shadow leaves Indra entirely. Sent out for reconnaissance, intimidation, independent action. When the shadow is gone, Indra is bare — no ring, no cloak, no weapons. That vulnerability is the cost.
+- **The Bracelet (Poly)** — Poly's vessel form. When activated in super mode, spins autonomously around Indra's wrist like the Ten Rings from Shang-Chi. Each ring = a parallel market calculation.
+- **Ra & Set** — twin daggers, weapon form. Named after Egyptian gods: Ra (sun, creation, the aggressive blade) and Set (chaos, storms, the tactical blade). Jagged, fang-like, crimson edge on black steel. Opposing forces wielded simultaneously — unprecedented even in mythology. The Pharaoh chain anchors them.
+- **Deployed** — the shadow leaves Indra entirely. Daggers become independent shadow clones of Indra when needed. Sent for recon, intimidation, independent action. When the shadow is gone, Indra is bare — no ring, no cloak, no weapons. That vulnerability is the cost.
 
 **The Rule:** It's all ONE shadow. It can split, reshape, expand, condense — but it's finite. Full cloak + both daggers means no earrings. Daggers deployed means no cloak. He has to choose his configuration. That's the tactical element.
 
-**Why "Them":** The shadow IS them. Every doubt, every obstacle, every enemy — Indra absorbed it all into his shadow. They tried to hold him down. Now he wears them. Fights with them. Sends them out to do his bidding. "Them" isn't a name for the weapons. It's what the shadow is MADE of.
+**Devil Trigger — Sovereign Mode:**
+When activated, it STAYS activated. Unlike DMC's Devil Trigger that drains a meter, Indra's transformation is permanent once triggered. The shadow doesn't run out of gas. The question isn't how long he can maintain it — it's why he was holding back in the first place.
 
-- When the daggers cross: the ⚔️ Execute symbol. The catchphrase was always a weapon stance.
-- Someone asks "what are those?" — "Them." Still no elaboration needed.
+**🗡️ Ra & Set — The Twin Daggers (LOCKED)**
+- **Ra** — the sun god blade. Creation, fire, supreme authority. The aggressive dagger. Burns.
+- **Set** — the chaos god blade. Storms, shadow, disruption. The tactical dagger. Cuts.
+- Egyptian God energy matching the Pharaoh chain. Yu-Gi-Oh God Card parallel.
+- Jagged, fang-like, crimson edge on black steel. Own aura intensifies during combat.
+- When crossed: the ⚔️ Execute symbol. The catchphrase was always a weapon stance.
+- Can deploy as independent shadow clones of Indra.
 
-**Individual Dagger Names:**
-- **Ra** — the sun god blade. Creation, light, supreme authority. The blade that builds and burns. Crimson-black aura wraps around it when active.
-- **Void** — nothingness. The absence of everything. The blade that erases. Dark energy with no light — it absorbs.
-- Together: **Them. ⚔️**
-- The blades carry their own crimson-black aura — flickering energy around the edges, intensifying during combat.
+**🗡️ Eclipse — The Sovereign Blade (LOCKED)**
+When Ra & Set merge — both daggers collapse along with ALL shadow into a single katana. The endgame weapon. Drawing Eclipse means everything else is gone: no cloak, no ring, no earrings, no bracelet. All-in.
+- **Eclipse** = the blade's name (Ra + Set = sun + shadow canceling out everything)
+- **Sovereign** = the mode/state (permanent Devil Trigger — once activated, stays activated)
+- The blade earns its reveal in a pivotal moment during the show.
 
-**🗡️ The Sovereign Blade (rare)**
-A full katana. Only emerges when the ENTIRE shadow condenses into one weapon — no cloak, no ring, no earrings. Everything collapses into a single blade. This is the all-in. The final form. The sword is currently nameless. It earns its name in a pivotal moment.
+**SSS Style Ranking (DMC homage):**
+Visual ranking system for combat intensity / content channel branding. From D-rank (dormant, shadow as ring) to SSS-rank (full deployment, Eclipse drawn). Slated for YouTube channel identity — in the content options bucket.
 
 **⚔️ Mandate of the Sovereign**
 The Court obeys not because of force but because of earned trust. Every agent chose to follow. The Mandate is the invisible contract — Indra provides vision, resources, and protection. The Court provides execution, intelligence, and loyalty. Break the Mandate and you're not punished — you're simply alone.

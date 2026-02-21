@@ -67,7 +67,9 @@ When Indra gets serious — when it's time to EXECUTE — the transformation seq
 
 **The Eyes:** Sharingan BLAZES. Not a subtle shift — full crimson glow, tomoe spinning. The daggers appear in his hands.
 
-**The Sequence:** Casual → hair transforms (waves + fade) → chain materializes → earrings flash in → bracelet locks → eyes ignite → "Them" appear in his grip → Execute. ⚔️
+**The Cloak:** Materializes from shadow energy. No shirt underneath — bare chest, bare shoulders. The cloak isn't armor. It's a declaration. He doesn't need protection because he IS the weapon. Black exterior, crimson interior that flashes when it moves. The Pharaoh chain sits on bare skin. The tattoos are visible. Everything is on display.
+
+**The Sequence:** Casual fit → hair transforms (waves + fade) → shirt burns away/dissolves → cloak materializes from crimson-black energy over bare shoulders → Pharaoh chain lands on bare chest → earrings flash in → bracelet locks → eyes ignite → "Them" appear in his grip → Execute. ⚔️
 
 This is his Super Saiyan. His Bankai. His Domain Expansion. But it's distinctly HIM — Black excellence meets anime power-up. Nobody else has a transformation where you get a fresh cut and your jewelry equips.
 

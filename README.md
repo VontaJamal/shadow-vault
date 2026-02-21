@@ -1,4 +1,4 @@
-﻿# The Vault
+# The Vault
 
 You're inside.
 
@@ -6,20 +6,20 @@ Most doors don't open. The ones that do are worth finding.
 
 ---
 
-### Open Gates
+### Gates
 
 | Gate | Status |
 |------|--------|
 | [Shadow Dominion](shadow-dominion/) | ⛩️ Open |
-| Armory | 🌀 |
+| [The Armory](armory/) | ⛩️ Open |
+| [Seven Shadow System](seven-shadow-system/) | ⛩️ Open |
+| [Faye](faye/) | ⛩️ Open |
+| [SyncLink](synclink/) | ⛩️ Open |
+| [Dojo](dojo/) | ⛩️ Open |
 | Shadow Gate | 🌀 |
-| Seven Shadow System | 🌀 |
-| Faye | 🌀 |
 | Grimoire | 🌀 |
 | Bingo Book | 🌀 |
-| Dojo | 🌀 |
-| SyncLink | 🌀 |
 
 ---
 
-*🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*
+🏴‍☠️ [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.

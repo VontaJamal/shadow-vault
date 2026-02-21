@@ -7,21 +7,21 @@ Pass this to the AI building the site. Every element, exact hex. No interpretati
 | Token | Hex | Use |
 |-------|-----|-----|
 | `--black` | `#0A0A0F` | Page background |
-| `--surface` | `#141418` | Card backgrounds, containers |
-| `--surface-2` | `#1C1C22` | Nested cards, secondary surfaces |
-| `--crimson` | `#CC0000` | Primary accent, CTAs, brand color |
-| `--crimson-dark` | `#8B0000` | Hover states, deeper red accents |
-| `--crimson-glow` | `rgba(204,0,0,0.15)` | Subtle red glow behind key elements |
-| `--gunmetal` | `#2C3539` | Borders, dividers |
-| `--ash` | `#2A2A35` | Subtle backgrounds, depth layers |
-| `--bone` | `#E8E4DE` | Primary text |
-| `--bone-dim` | `#9A9590` | Secondary/muted text |
-| `--bone-faint` | `#6A6560` | Tertiary text, labels |
-| `--ember` | `#FF4500` | Sparingly — hover effects, small accents only |
+| `--surface` | `#121217` | Card backgrounds, containers |
+| `--surface-2` | `#1A1A22` | Nested cards, secondary surfaces |
+| `--crimson` | `#B3122C` | Primary accent, CTAs, brand color |
+| `--crimson-dark` | `#7A0D21` | Hover states, deeper red accents |
+| `--crimson-glow` | `rgba(179,18,44,0.18)` | Controlled atmospheric glow behind key elements |
+| `--gunmetal` | `#32343B` | Borders, dividers |
+| `--ash` | `#24242D` | Subtle backgrounds, depth layers |
+| `--bone` | `#E7E2DA` | Primary text |
+| `--bone-dim` | `#AAA39A` | Secondary/muted text |
+| `--bone-faint` | `#7A746D` | Tertiary text, labels |
+| `--ember` | `#E14A22` | Sparingly — event-level heat accents only |
 | `--white` | `#FFFFFF` | Stats numbers, bold callouts only |
 
 ## BANNED Colors
-- **NO gold/amber/yellow** (#D4A843, #C8A84E, etc.) — remove ALL of it
+- **NO gold/amber/yellow as base accents** (#D4A843, #C8A84E, etc.) — ember token is explicitly allowed for sparse heat accents only
 - **NO pink/salmon/rose** (#D4707A, #CC7080, etc.) — not in the palette
 - **NO purple/lavender** — AI company color
 - **NO bright blue** (#3B82F6) — the pagination dot, nav items, anything
@@ -56,7 +56,7 @@ Pass this to the AI building the site. Every element, exact hex. No interpretati
 - Text: `--bone`
 
 #### "EXECUTE ⚔️"
-- "EXECUTE" text: `--crimson` (#CC0000)
+- "EXECUTE" text: `--crimson` (#B3122C)
 - Swords icon: `--crimson` (NOT gold — this is the most important element on the page)
 
 #### Subtitle
@@ -138,10 +138,16 @@ Pass this to the AI building the site. Every element, exact hex. No interpretati
 
 ## General Rules
 
-1. **Crimson red is the ONLY accent color.** Nothing else competes with it.
-2. **White (#FFFFFF) is reserved for stats/numbers and bold callouts.** Regular text uses bone (#E8E4DE).
+1. **Crimson red is the primary accent color.** Nothing else competes with it in recurring UI emphasis.
+2. **White (#FFFFFF) is reserved for stats/numbers and bold callouts.** Regular text uses bone (#E7E2DA).
 3. **All borders are gunmetal.** No warm-tinted borders, no rose/burgundy borders.
 4. **No color variety in the nav icons.** They're all the same muted gray.
 5. **The page should feel like you're looking at a dark terminal with blood-red highlights.** Not a SaaS landing page.
 6. **Hover states:** crimson elements get slightly darker (crimson-dark), ghost buttons get a subtle crimson glow.
-7. **No element should be gold, amber, yellow, pink, salmon, purple, blue, teal, or green.** The only colors are black, shades of gray, bone white, and crimson red.
+7. **No element should be gold, amber, yellow, pink, salmon, purple, blue, teal, or green as a base accent.** The only recurring colors are black, shades of gray, bone white, and crimson red; ember is allowed only for sparse heat moments.
+
+## Intensity Guardrails
+
+- Crimson usage target: **8–14%** of visible UI area.
+- Ember usage target: **<=2%** of visible UI area.
+- At least **60%** of text should be `--bone`/`--bone-dim`, not pure white.

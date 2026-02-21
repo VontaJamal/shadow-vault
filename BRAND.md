@@ -51,15 +51,15 @@ Currently operating as "Shadow Dominion." Final name TBD. Candidates being evalu
 | Role | Color | Hex | Notes |
 |------|-------|-----|-------|
 | **Canvas** | Obsidian Black | `#0A0A0F` | Not pure black — slightly blue-shifted, like a starless night sky |
-| **Identity** | Crimson Red | `#CC0000` | Uchiha red. Sharingan. Tattooed on the founder. THE brand color. Non-negotiable. |
-| **Structure** | Gunmetal | `#2C3539` | Borders, cards, secondary surfaces. Industrial, weapons, The Armory. |
+| **Identity** | Crimson Red | `#B3122C` | Uchiha red, refined for sustained readability while staying unmistakably dominant. |
+| **Structure** | Gunmetal | `#32343B` | Borders, cards, secondary surfaces. Industrial, weapons, The Armory. |
 
 ### Secondary
 | Role | Color | Hex | Notes |
 |------|-------|-----|-------|
-| **Heat** | Ember Orange | `#FF4500` | Accent only. Amaterasu warmth. Naruto chakra energy. Use sparingly. |
-| **Text** | Bone White | `#E8E4DE` | Not bright white — aged, like a scroll. Readable on dark backgrounds. |
-| **Depth** | Ash Grey | `#2A2A35` | Layering dark surfaces. Shadow depth without competing with black. |
+| **Heat** | Ember Orange | `#E14A22` | Event-level emphasis only (badges, burst moments, never base UI). |
+| **Text** | Bone White | `#E7E2DA` | Not bright white — aged, like a scroll. Readable on dark backgrounds. |
+| **Depth** | Ash Grey | `#24242D` | Layering dark surfaces. Shadow depth without competing with black. |
 
 ### Rules
 - **Red is the signature.** Every major touchpoint should have crimson somewhere.
@@ -68,7 +68,7 @@ Currently operating as "Shadow Dominion." Final name TBD. Candidates being evalu
 - **No teal.** Personal preference. Eliminated.
 - **No gold.** Too crypto-bro / luxury brand.
 - **No bright blue.** Too corporate / tech startup.
-- **Gradients:** Black → Crimson for dramatic moments. Ember → Crimson for heat/energy.
+- **Gradients:** Primary gradient: Black → Crimson. Optional heat gradient: Crimson → Ember only for highlight moments.
 
 ### Application
 | Context | Primary | Accent | Text |

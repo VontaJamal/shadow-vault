@@ -1,0 +1,52 @@
+# The Forge 🔥
+
+**Where Armory tools are born.**
+
+These are concepts — weapons, spells, summons, and items being shaped before they hit the Armory. Some will ship. Some won't survive the forge. If you have thoughts on any of these, [open an Issue](https://github.com/VontaJamal/armory/issues).
+
+---
+
+## Current Inventory Balance
+
+| Shop | Count | Target Range |
+|------|-------|-------------|
+| ⚔️ Weapons | 8 | 8–15 |
+| 📜 Spells | 5 | 8–12 |
+| 🐉 Summons | 6 | 6–10 |
+| 🎒 Items | 6 | 8–12 |
+
+**Priority fill:** Spells and Items are light. Next builds should lean there unless a weapon/summon concept is too good to wait.
+
+---
+
+## Concepts in the Forge
+
+*Updated nightly from development activity.*
+
+### Under Consideration
+
+<!-- New concepts get added here by the nightly synthesis -->
+
+*(The forge is heating up. First concepts drop soon.)*
+
+---
+
+## Recently Shipped
+
+*Tools that graduated from the Forge into the Armory.*
+
+<!-- Moved here when a concept gets built and merged -->
+
+---
+
+## How This Works
+
+Every night, development activity from the last 24–48 hours gets reviewed. Patterns emerge — a script that kept getting reused, a manual process that should be automated, a gap in the toolkit that slowed things down. Those patterns become forge concepts.
+
+Concepts sit here for community input before being built. Once built and tested, they graduate to the Armory and move to "Recently Shipped."
+
+The inventory balance table keeps the Armory from getting lopsided — if weapons are stacked but spells are thin, the next build prioritizes spells. Quality over quantity, but balance matters.
+
+---
+
+*Part of [Sovereign](https://github.com/VontaJamal) — The Shadow Dominion.*

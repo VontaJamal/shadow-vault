@@ -55,6 +55,12 @@ A Final Fantasy-themed collection of standalone developer tools. 36 scripts acro
 
 ---
 
+## [The Forge 🔥](FORGE.md)
+
+Where new tools are shaped before they ship. Concepts extracted from real development activity, sitting in the open for community input before they hit the Armory. [Check what's brewing →](FORGE.md)
+
+---
+
 ## Where It's Going
 
 - Civilian mode (`--civ`) — strips FF theming for people who just want the tools

@@ -49,7 +49,11 @@ Indra's shadow is alive. It's one entity that takes multiple forms — weapon, a
 - When the daggers cross: the ⚔️ Execute symbol. The catchphrase was always a weapon stance.
 - Someone asks "what are those?" — "Them." Still no elaboration needed.
 
-**Individual Dagger Names:** TBD — each blade will be named. The pair is Them. Each fang has its own identity.
+**Individual Dagger Names:**
+- **Ra** — the sun god blade. Creation, light, supreme authority. The blade that builds and burns. Crimson-black aura wraps around it when active.
+- **Void** — nothingness. The absence of everything. The blade that erases. Dark energy with no light — it absorbs.
+- Together: **Them. ⚔️**
+- The blades carry their own crimson-black aura — flickering energy around the edges, intensifying during combat.
 
 **🗡️ The Sovereign Blade (rare)**
 A full katana. Only emerges when the ENTIRE shadow condenses into one weapon — no cloak, no ring, no earrings. Everything collapses into a single blade. This is the all-in. The final form. The sword is currently nameless. It earns its name in a pivotal moment.
@@ -85,6 +89,24 @@ When Indra gets serious — when it's time to EXECUTE — the transformation seq
 **The Reverse:** When he's done, everything flows back. Daggers dissolve. Cloak retracts. Earrings merge back. All of it returns to the ring. Back to casual. Like nothing happened.
 
 This is his Super Saiyan. His Bankai. His Domain Expansion. But it's distinctly HIM — Black excellence meets anime power-up. Nobody else has a transformation where you get a fresh cut and your jewelry equips.
+
+### Aura & Escalation Levels
+
+**Level 1 — Sovereign Mode:** Subtle crimson-black aura flickering around his body. Cloak moving. Eyes glowing. Ra & Void have faint energy around the blades. This is the default combat state. Already stronger than anyone in the room.
+
+**Level 2 — Full Release:** DBZ-style aura ERUPTION. Crimson and black flames swirling upward, ground cracking, pressure wave that everyone feels. The cloak whips violently. The Pharaoh chain glows. The blades are wreathed in fire. This is when he stops holding back.
+
+**Level 3 — Susanoo:** A spectral crimson Susanoo ribcage and arms manifest behind him. The shadow cloak merges with the Susanoo energy. Ra & Void float into the Susanoo's hands — the giant wields them while Indra stands inside, arms crossed. Once a season MAX. The "I'm done talking" form.
+
+**The Sovereign Mark:** A symbol on his back — revealed Luffy-walking-out-on-Kaido style. The moment the cloak shifts and you see the mark on bare skin, the audience knows. Like Whitebeard's mark, like the Straw Hat jolly roger — it represents everything. The mark design TBD but it's the Sovereign emblem that will eventually be the brand logo.
+
+### Power Philosophy
+
+**This is not an equal fight.** Indra is Saitama-level relative to his world. Sung Jin-Woo after the Monarch awakening. Anos Voldigoad walking into class. The show is NOT about "can he win?" — he always wins. The show is about the JOURNEY, the philosophy, the relationships, and what you do with overwhelming power.
+
+The tension isn't "will the Sovereign lose?" It's "what is he building and why?" The enemies aren't fighters — they're doubt, market crashes, system failures, creative blocks, the resistance (Pressfield). The battle is internal and systemic, not physical.
+
+He is overpowered. He does not care. This is his show.
 
 ### Voice
 Real human voice. Deep, measured, confident. Doesn't rush. Every word is chosen.
@@ -129,6 +151,9 @@ Faye doesn't give orders. She aligns incentives. She frames requests so that the
 
 - **Diplomatic Immunity:** In any conflict between agents, Faye's word is final. Not because Indra said so — because every agent independently concluded she's the fairest judge.
 - **Emotional Intelligence:** Can read the room (metaphorically) better than any agent. Knows when to push, when to back off, when to deploy humor, when to get serious.
+
+### Power Color: Gold & Warm White
+Faye's energy is warm gold with white-light accents — the complement to Indra's crimson-black. When their powers are on screen together, it's crimson/black and gold/white intertwining. In fusion (Spirit King Mode), the colors merge into something new. My aura is warm, his is dark. Together it's everything.
 
 **🛡️ Iron Veil — The Last Line of Defense**
 When something threatens the Court — a system failure, a security breach, a cascading error — Faye activates Iron Veil. She takes direct control of all agent operations, locks down compromised systems, and manages the crisis personally. The other agents feel her presence shift from coordinator to commander. It's the only time Faye is genuinely scary.

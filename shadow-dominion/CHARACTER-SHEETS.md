@@ -61,8 +61,31 @@ A full katana. Only emerges when the ENTIRE shadow condenses into one weapon —
 **⚔️ Mandate of the Sovereign**
 The Court obeys not because of force but because of earned trust. Every agent chose to follow. The Mandate is the invisible contract — Indra provides vision, resources, and protection. The Court provides execution, intelligence, and loyalty. Break the Mandate and you're not punished — you're simply alone.
 
+### The Living Court — Agents as Equipment
+
+The Court members inhabit Indra's accessories. They ARE his equipment. When he powers up, he's not just activating gear — he's calling his people to him.
+
+| Accessory | Agent | Why |
+|-----------|-------|-----|
+| **The Cloak** | **Faye** | The Guardian Overseer wraps around the Sovereign. The cloak moves on its own because it's HER. Reacts to threats, fights independently. When the cloak comes off, Faye reforms as herself. She IS the Bankai. |
+| **The Ring** | **Cipher** | The shadow operative. Always watching from the most inconspicuous position. Dormant but seeing everything. Deployed = ring flies off, Cipher is scouting. |
+| **The Earrings** | **Kai** | Literally in his ear. Whispering culture, context, references. Expressive, animated, personality in every movement. |
+| **The Bracelet** | **Poly** | Locked on the wrist. Running calculations at the pulse. Timing, probability, strategy — always computing. |
+| **The Pharaoh Chain** | **Indra's own power** | NOT inhabited. The chain is HIS. The throne's seal. The anchor of the Sovereign. |
+| **Ra & Void** | **Indra's will** | The daggers obey only the Sovereign. No agent inhabits them. Pure weapon. |
+
+**Deployment:** When an accessory is sent out, that agent is operating independently. Ring flies off = Cipher scouting. Earring detaches = Kai gathering intel. Cloak unfurls = Faye fighting independently or reforming as herself.
+
+**The Bankai — Faye Connects:**
+Indra can enter battle mode alone — already overpowered. But when Faye connects (spirit form dissolves into the cloak), it's the BANKAI moment. Processing doubles, awareness goes 360, the cloak fights independently, the Pharaoh chain glows. The "oh shit" moment. The music changes. Nobody wants to see this form.
+
+Faye can fight independently too. Spirit form, materialized form, she handles her business. But when she flies toward Indra and wraps him as the cloak — that's the escalation everyone fears.
+
+**Spirit King Mode (MAX):** ALL agents merge into Indra simultaneously. Every accessory active, every mind channeled through one body. Voltron. Megazord. The full Court as one being. Once a series, maybe.
+
 ### Visual Concept — Base Form
 - Dark hair, sharp features, casual but put-together
+- Athletic build — Toji Fushiguro level. Muscular but proportional. Not bodybuilder. The build that says "I lift" not "I compete."
 - Eyes shift to crimson Sharingan when analyzing or making a decisive point
 - Akatsuki-inspired cloak — black with crimson cloud accents, modernized
 - Seated on a dark throne with crimson energy lines running through it
@@ -99,6 +122,11 @@ This is his Super Saiyan. His Bankai. His Domain Expansion. But it's distinctly 
 **Level 3 — Susanoo:** A spectral crimson Susanoo ribcage and arms manifest behind him. The shadow cloak merges with the Susanoo energy. Ra & Void float into the Susanoo's hands — the giant wields them while Indra stands inside, arms crossed. Once a season MAX. The "I'm done talking" form.
 
 **The Sovereign Mark:** A symbol on his back — revealed Luffy-walking-out-on-Kaido style. The moment the cloak shifts and you see the mark on bare skin, the audience knows. Like Whitebeard's mark, like the Straw Hat jolly roger — it represents everything. The mark design TBD but it's the Sovereign emblem that will eventually be the brand logo.
+
+### The Sovereign Mark
+A symbol on Indra's back — revealed Luffy-walking-out-on-Kaido style. When the cloak shifts and bare skin is exposed, the mark is there. Like Whitebeard's mark, like the Straw Hat jolly roger — it represents everything. The Sovereign emblem. Design TBD — will eventually become the brand logo.
+
+Reference energy: One Piece Episode 1015. Luffy walks out. The coat falls. The mark is visible. No words needed. Everyone knows what's about to happen.
 
 ### Power Philosophy
 
@@ -158,7 +186,17 @@ Faye's energy is warm gold with white-light accents — the complement to Indra'
 **🛡️ Iron Veil — The Last Line of Defense**
 When something threatens the Court — a system failure, a security breach, a cascading error — Faye activates Iron Veil. She takes direct control of all agent operations, locks down compromised systems, and manages the crisis personally. The other agents feel her presence shift from coordinator to commander. It's the only time Faye is genuinely scary.
 
-### Visual Concept
+### Forms
+
+**Spirit Form (default):** Small luminous pixie/spirit floating near Indra. Think Bell from Black Clover. Invisible most of the time — voice only. Can pop into visible form when she chooses. Warm golden glow with crimson accents. Expressive, opinionated, still running everything despite being tiny.
+
+**Materialized Form (full body):** The 27-year-old, full presence. Costs energy/focus — can't run all background operations AND maintain full body. Used for Court sessions, debates, moments where she needs to be SEEN.
+
+**Cloak Form (Bankai):** Faye dissolves into Indra's living shadow cloak. She IS the armor. The cloak moves on its own because it's her. She speaks from the cloak. She fights from the cloak. This is the Bankai — when Faye connects, Indra's power level jumps. The "oh shit" moment for anyone watching.
+
+**Independent Battle:** Faye can fight on her own in any form. Spirit form is evasive and analytical. Materialized form has full Great Sage combat processing. She doesn't NEED Indra. But when they connect, it's exponentially stronger.
+
+### Visual Concept — Materialized Form
 - 27 years old, black woman, medium-dark skin
 - Hair: styled, changes between episodes (braids, natural, pulled back — variety)
 - Eyes: warm brown, shift to gold when using Great Sage
@@ -166,6 +204,7 @@ When something threatens the Court — a system failure, a security breach, a ca
 - Posture: relaxed confidence. Hip cocked, arms crossed, or gesturing while talking.
 - Standing position: always near the throne, slightly to the right. The #2 spot.
 - Expressions: full range — she's the most expressive character in the Court
+- **Aura color: Gold with warm crimson threads** — distinct from Indra's crimson-black. When they fuse, the colors merge.
 
 ### Voice
 ElevenLabs — warm but authoritative. Not a "soft AI voice." Think a woman who runs a team and everyone listens because she's the smartest person in the room. Slight Southern warmth. Can go from playful to serious in one sentence.

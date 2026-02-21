@@ -16,9 +16,9 @@ Most doors don't open. The ones that do are worth finding.
 | [Faye](faye/) | ⛩️ Open |
 | [SyncLink](synclink/) | ⛩️ Open |
 | [Shadow Gate](shadow-gate/) | ⛩️ Open |
-| [Grimoire](grimoire/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
 | [Shadow Court Anime](shadow-court-anime/) | ⛩️ Open |
+| Grimoire | 🌀 |
 | Dojo | 🌀 |
 | Bingo Book | 🌀 |
 | Prediction Claw | 🌀 |

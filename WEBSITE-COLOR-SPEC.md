@@ -1,0 +1,147 @@
+# Website Color Spec — Exact Directives
+
+Pass this to the AI building the site. Every element, exact hex. No interpretation needed.
+
+## The Palette (ONLY these colors)
+
+| Token | Hex | Use |
+|-------|-----|-----|
+| `--black` | `#0A0A0F` | Page background |
+| `--surface` | `#141418` | Card backgrounds, containers |
+| `--surface-2` | `#1C1C22` | Nested cards, secondary surfaces |
+| `--crimson` | `#CC0000` | Primary accent, CTAs, brand color |
+| `--crimson-dark` | `#8B0000` | Hover states, deeper red accents |
+| `--crimson-glow` | `rgba(204,0,0,0.15)` | Subtle red glow behind key elements |
+| `--gunmetal` | `#2C3539` | Borders, dividers |
+| `--ash` | `#2A2A35` | Subtle backgrounds, depth layers |
+| `--bone` | `#E8E4DE` | Primary text |
+| `--bone-dim` | `#9A9590` | Secondary/muted text |
+| `--bone-faint` | `#6A6560` | Tertiary text, labels |
+| `--ember` | `#FF4500` | Sparingly — hover effects, small accents only |
+| `--white` | `#FFFFFF` | Stats numbers, bold callouts only |
+
+## BANNED Colors
+- **NO gold/amber/yellow** (#D4A843, #C8A84E, etc.) — remove ALL of it
+- **NO pink/salmon/rose** (#D4707A, #CC7080, etc.) — not in the palette
+- **NO purple/lavender** — AI company color
+- **NO bright blue** (#3B82F6) — the pagination dot, nav items, anything
+- **NO teal/green**
+- **NO gradient profile rings** — if there's a ring, it's solid crimson
+
+---
+
+## Element-by-Element Spec
+
+### Page Background
+- `--black` (#0A0A0F) everywhere. No exceptions.
+
+### Top Navigation
+- **Nav bar background:** `--surface` with 90% opacity (slight transparency is fine)
+- **Nav border:** `--gunmetal`
+- **Logo "DJ" monogram:** Replace gold circle with `--crimson` circle, white initials
+- **"Shadow Dominion" text:** `--bone`
+- **Active nav item (Home):** Background pill = `--crimson-dark`, text = `--white`
+- **Inactive nav items:** Text = `--bone-dim`, icons = `--bone-faint`
+- **All nav icons:** `--bone-faint` (no gold, no colored icons)
+- **Notification badge:** Border = `--gunmetal`, text = `--bone-dim`
+
+### Hero — Left Side
+
+#### "SHADOW DOMINION" Badge
+- Background: `--surface`
+- Border: `--crimson-dark`
+- Text: `--crimson` (uppercase, letterspaced)
+
+#### "DEVONTA JOHNSON"
+- Text: `--bone`
+
+#### "EXECUTE ⚔️"
+- "EXECUTE" text: `--crimson` (#CC0000)
+- Swords icon: `--crimson` (NOT gold — this is the most important element on the page)
+
+#### Subtitle
+- Text: `--bone-dim`
+
+#### Typing/Terminal Card
+- Background: `--surface`
+- Border: `--gunmetal`
+- Bullet dot: `--crimson` (NOT gold)
+- "AI Systems" text: `--bone-dim`
+- "Architect" text: `--crimson` (the active/typed word highlights in red)
+- Cursor: `--crimson`
+
+#### Civilian Translation Card
+- Background: `--surface-2`
+- Border: `--gunmetal`
+- "Civilian translation:" label: `--bone`
+- Body text: `--bone-dim`
+
+#### Skill/Tag Badges
+- Background: transparent
+- Border: `--gunmetal`
+- Text: `--bone-dim`
+
+#### Target Audience Text
+- Text: `--bone-faint`
+
+#### CTA Buttons
+- **"Connect on LinkedIn":** Background = `--crimson`, text = `--white`. Hover = `--crimson-dark`
+- **"Watch RenderATL Talk":** Background = transparent, border = `--crimson-dark`, text = `--crimson`. Hover = `--crimson-glow` background
+
+### Profile Card — Right Side
+
+#### Card Container
+- Background: `--surface`
+- Border: `--gunmetal`
+
+#### "MONARCH MODE" Badge
+- Background: `--surface-2`
+- Border: `--crimson-dark`
+- Text: `--crimson` (NOT gold — this is a rank, not a prize)
+
+#### Profile Photo Ring
+- Solid `--crimson` ring. No gradient. No gold. No pink. Just red.
+
+#### Stats Row
+- Numbers ("10+", "24/7", "150+"): `--white`
+- Labels: `--bone-faint`
+
+#### Description Box
+- Background: `--surface-2`
+- Text primary: `--bone`
+- Text secondary (civilian translation): `--bone-dim`
+
+#### "Connect on LinkedIn" Button
+- Background: `--crimson`, text: `--white`
+
+#### "View GitHub" Button
+- Background: `--surface-2`, border: `--gunmetal`, text: `--bone`
+
+#### RenderATL Floating Badge
+- Background: `--surface`
+- Border: `--crimson-dark`
+- "RenderATL" text: `--white`
+- "Watch talk" text: `--crimson`
+
+#### "Systems + People" Floating Card
+- Background: `--surface`
+- Border: `--gunmetal`
+- Title: `--bone`
+- Subtitle: `--bone-dim`
+
+### Footer / Pagination
+- "Explore more" text: `--bone-faint`
+- Active dot: `--crimson` (NOT blue)
+- Inactive bar: `--gunmetal`
+
+---
+
+## General Rules
+
+1. **Crimson red is the ONLY accent color.** Nothing else competes with it.
+2. **White (#FFFFFF) is reserved for stats/numbers and bold callouts.** Regular text uses bone (#E8E4DE).
+3. **All borders are gunmetal.** No warm-tinted borders, no rose/burgundy borders.
+4. **No color variety in the nav icons.** They're all the same muted gray.
+5. **The page should feel like you're looking at a dark terminal with blood-red highlights.** Not a SaaS landing page.
+6. **Hover states:** crimson elements get slightly darker (crimson-dark), ghost buttons get a subtle crimson glow.
+7. **No element should be gold, amber, yellow, pink, salmon, purple, blue, teal, or green.** The only colors are black, shades of gray, bone white, and crimson red.

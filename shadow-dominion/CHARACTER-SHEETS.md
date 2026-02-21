@@ -46,13 +46,30 @@ A full katana. Only comes out for critical moments — when the daggers aren't e
 **⚔️ Mandate of the Sovereign**
 The Court obeys not because of force but because of earned trust. Every agent chose to follow. The Mandate is the invisible contract — Indra provides vision, resources, and protection. The Court provides execution, intelligence, and loyalty. Break the Mandate and you're not punished — you're simply alone.
 
-### Visual Concept
-- Dark hair, sharp features
+### Visual Concept — Base Form
+- Dark hair, sharp features, casual but put-together
 - Eyes shift to crimson Sharingan when analyzing or making a decisive point
 - Akatsuki-inspired cloak — black with crimson cloud accents, modernized
 - Seated on a dark throne with crimson energy lines running through it
 - Behind him: screens showing live data from every agent's domain
 - Posture: relaxed but commanding. Legs crossed. One hand on armrest.
+
+### Transformation — Sovereign Mode (The Activation)
+When Indra gets serious — when it's time to EXECUTE — the transformation sequence hits:
+
+**The Hair:** 360 waves fade in, fresh fade materializes. Clean. Perfect. Every wave laid down like it was destined. This is the most real transformation in anime — he doesn't spike up or glow. He gets CLEAN. That's how you know it's on.
+
+**The Jewelry:** 
+- **The Pharaoh Chain** — A gold chain with a Pharaoh pendant (based on Indra's real chain he always wears). Materializes around his neck with crimson energy. This is his Millennium Puzzle — the seal that activates Sovereign Mode. The Pharaoh. The King.
+- **Earrings** — appear with a flash. Sharp, gold or crimson studs.
+- **Bracelet** — wraps around his wrist, locking in.
+- The jewelry isn't decoration. It's armor equipping. Each piece activates with energy.
+
+**The Eyes:** Sharingan BLAZES. Not a subtle shift — full crimson glow, tomoe spinning. The daggers appear in his hands.
+
+**The Sequence:** Casual → hair transforms (waves + fade) → chain materializes → earrings flash in → bracelet locks → eyes ignite → "Them" appear in his grip → Execute. ⚔️
+
+This is his Super Saiyan. His Bankai. His Domain Expansion. But it's distinctly HIM — Black excellence meets anime power-up. Nobody else has a transformation where you get a fresh cut and your jewelry equips.
 
 ### Voice
 Real human voice. Deep, measured, confident. Doesn't rush. Every word is chosen.

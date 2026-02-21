@@ -37,6 +37,23 @@ Full GitHub account backup to local/external drive. Mirror-clones every repo (pu
 
 ---
 
+**🐉 Summon / Seven Shadow System Feature — Sentinel Eye**
+*"The shadows see what CI won't tell you."*
+
+Agent-friendly PR monitoring built into Seven Shadow System. Three capabilities Jarred Sumner (@jarredsumner, Bun creator) publicly requested for `gh` CLI — we build it into the Seven Shadows instead:
+
+1. **Unresolved PR comments** — pull review comments as structured markdown with `file:line` references. Agents can read exactly what needs fixing and where.
+2. **Failing CI logs** — extract GH Action failure logs, filtered to the actual error (not 500 lines of setup noise). Agent gets the error, the context, and the file.
+3. **Lint errors from CI** — parse lint/test output from action runs into structured format agents can act on.
+
+The Seven Shadow System guard already hooks into PRs and CI. This extends it from "detect and block" to "detect, block, AND tell the agent exactly how to fix it." The guard becomes a coach.
+
+**Why it surfaced:** @jarredsumner tweet (182 likes, 8.8K views, Feb 21 2026) — validated demand for agent-friendly PR tooling. Nobody's built this yet.
+**Shop:** Seven Shadow System feature (not standalone Armory tool)
+**Priority:** High — this is differentiation. First governance tool that feeds fix instructions back to agents.
+
+---
+
 ## Recently Shipped
 
 *Tools that graduated from the Forge into the Armory.*

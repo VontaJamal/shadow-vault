@@ -19,9 +19,9 @@ Most doors don't open. The ones that do are worth finding.
 | [Shadow Gate](shadow-gate/) | ⛩️ Open |
 | [Grimoire](grimoire/) | ⛩️ Open |
 | [Bingo Book](bingo-book/) | ⛩️ Open |
-| [Prediction Claw](prediction-claw/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
 | [Shadow Court Anime](shadow-court-anime/) | ⛩️ Open |
+| Prediction Claw | 🌀 |
 
 ---
 

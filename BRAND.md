@@ -1,47 +1,26 @@
-# Brand Guide — Shadow Dominion (Working Name)
+# Brand Guide — Sovereign
 
 The visual and verbal identity for the entire ecosystem. Pass this to any designer, AI, or developer touching the brand.
 
 ---
 
-## Name Status: UNDECIDED
+## Name: LOCKED ✅
 
-Currently operating as "Shadow Dominion." Final name TBD. Candidates being evaluated:
+**Sovereign** — The Shadow Dominion.
 
-### Top Candidates
-| Name | Syllables | Energy |
-|------|-----------|--------|
-| Shadow Dominion | 5 | Current name. Strong but long. Solo Leveling energy. |
-| Sovereign | 3 | Supreme authority. One ruler. |
-| Dominion | 3 | Territory under absolute control. |
-| Bastion | 2 | Fortified position. Short, punchy. |
-| Citadel | 3 | The fortress at the center. |
-| Archon | 2 | Ruler. Ancient Greek. Hard consonants. |
-| Umbra | 2 | Darkest part of a shadow. |
-| Onyx | 2 | Black gemstone. Sharp. |
-| Erebus | 3 | Greek god of darkness and shadow. |
-| Revenant | 3 | One who returns. Undying. |
-| Ark | 1 | Where everything that matters is preserved. |
-| Vertex | 2 | Highest point. Ends in X. |
-| Obsidian | 4 | Black volcanic glass. Unbreakable. |
-| Advent | 2 | Something powerful arriving. FF7 resonance. |
-| Apex | 2 | The top. Nothing above it. |
-| Nexus | 2 | Where everything connects. Already used internally. |
-| Exalt | 2 | To raise higher. Verb as name. |
+- **Primary name:** Sovereign
+- **Full title:** Sovereign — The Shadow Dominion
+- **Usage:** "Sovereign" in all public/professional contexts. The full title for lore, branding moments, and those who go deeper.
+- **The subtitle is not a second name.** It's a descriptor. Like "Nazarick — The Great Tomb" or "Ainz Ooal Gown — The Sorcerer King."
+- **Never write "Shadow Dominion" alone** as the brand name. It's always "Sovereign" or "Sovereign — The Shadow Dominion."
 
-### Naming Rules (from analysis of favorite anime/game names)
-- 2-3 syllables max
-- Hard consonants (K, T, G, X, V, R, D)
-- Works as a word AND a brand (domain-able, hashtag-able)
-- Doesn't need explanation to sound cool, but rewards digging deeper
-- Not obviously anime to outsiders — fans recognize the energy
-- Should feel like a place, a force, or a title — not a product name
-
-### Acronym Requirements (if applicable)
-- Initials must sound threatening when spoken aloud
-- No soft/cute combinations (no M.O.N., no S.A.P.)
-- Letters that look sharp when written
-- Hard consonants in the initials: K, X, Z, V, R, D, G preferred
+### Why Sovereign
+- 3 syllables, real English word — civilians understand it immediately
+- Means supreme authority, independent rule — "answers to no one"
+- Anime fans hear the Monarch energy without needing it spelled out
+- Clean Google results, hashtag-able, domain-able
+- Works as prefix ("Sovereign Court"), standalone ("Built with Sovereign"), and shorthand ("Sov")
+- The shadow is implied by everything else — colors, aesthetic, lore. The name doesn't need to say it.
 
 ---
 

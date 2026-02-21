@@ -1,4 +1,4 @@
-# Website Color Spec — Exact Directives
+# Website Color Spec — Sovereign (Exact Directives)
 
 Pass this to the AI building the site. Every element, exact hex. No interpretation needed.
 

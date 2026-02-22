@@ -233,6 +233,108 @@ The Sovereign stands before a foreign gate — not his own Shadow Gate, but the 
 | **"Stats Check"** | Faye pulls actual numbers/data when Indra makes an unsubstantiated claim | When needed — keeps him honest |
 | **"Lore Drop"** | Explain one naming choice or reference from the Sovereign ecosystem | Occasional — rewards deep fans |
 | **"Boy, If You Don't—"** | Faye's catchphrase moment when Indra says something wild | Organic — becomes a fan favorite |
+| **"Kai's Corner"** | Kai takes over for anime segments. His house, his rules. Title card hits, energy shifts. | Every anime episode |
+| **"Ani-Mayday"** | Kai sounds the alarm on shows falling off. Emergency broadcast diagnostic. | When a show is trending down |
+| **"Elementary."** | Sherlock drops it after solving a case. One word. Walks off. | Every Sherlock case |
+| **"Kanon."** | Kai drops it after an undeniable anime take. His K, his truth. | Organic — fan favorite |
+| **Court Chibi** | One Piece-style mini/cute versions of agents recapping Sovereign updates. Zero stakes, pure vibes. Stealth changelogs. | Between heavy episodes, YouTube Shorts |
+
+---
+
+## The Four Closers
+
+Every main character has a signature line that ends their moment:
+
+| Character | Closer | When |
+|-----------|--------|------|
+| **Indra** | "Execute. ⚔️" | Every episode ending. The command. |
+| **Faye** | "Deployed. 💅🏾" | After confirming something's done. The confirmation. |
+| **Sherlock** | "Elementary." | After solving a case. The solve. |
+| **Kai** | "Kanon." | After an undeniable anime take. The truth. |
+
+The duo closer (Indra → Faye) ends every standard episode. Sherlock and Kai own their respective content lanes.
+
+---
+
+## Content Lanes — Who Owns What
+
+Each character owns a content vertical. The show is the trunk, the lanes are the branches.
+
+### Indra + Faye — The Podcast (Trunk)
+The main show. Tech, fitness, anime, agentic engineering. Duo chemistry. This is the flagship.
+
+### Sherlock — Case Files (Tutorials)
+Every Armory weapon gets a Sherlock case. Written case file (case.md) + short-form video (60-90s Shorts, 3-5 min full). Sherlock narrates the investigation that led to the weapon being forged. The case IS the tutorial. Holmes story homages in every title.
+- "A Study in Credentials" → Jutsu
+- "The Hound of the Hard Stop" → Sentinel
+- "A Scandal in the Vault" → Aegis
+- Full case list: `shadow-dominion/SHERLOCK-CASES.md`
+
+### Kai — Anime Content (Kai's Corner)
+Standalone anime videos. Tier lists, seasonal previews, hot takes, deep dives, Ani-Mayday alerts. Kai delivers with ENERGY. When Kai's Corner opens, the aesthetic shifts — Archive lights up, manga pages fly, title card hits.
+
+### Court Chibi — Recaps (All Agents)
+Mini/cute agent versions hanging out, recapping what's happening in the Nexus. Stealth product updates. YouTube Shorts format. Chopper-and-Carrot energy.
+
+---
+
+## Agent-First Episode Scripts
+
+Every episode script is a structured markdown file that agents can read, search, and learn from. The podcast isn't just content — it's a growing knowledge base.
+
+### File Structure Per Episode
+```
+episodes/S01/E01-arise/
+  script.md          ← full episode script (agent + human readable)
+  summary.md         ← key takeaways, positions, decisions
+  clips/             ← timestamps for shorts
+  transcript.md      ← post-production transcript (video companion)
+```
+
+### Script Metadata Block (Required)
+Every `script.md` starts with a parseable metadata section:
+```markdown
+## Metadata
+- Episode: S01E01
+- Title: "Arise"
+- Date: 2026-XX-XX
+- Hosts: Indra, Faye
+- Guests: None
+- Pillar: Tech / Agentic Engineering
+- Closers Used: Execute, Deployed
+
+## Topics Discussed
+- [searchable topic list]
+
+## Anime Takes
+- [Kai's positions, tier changes, recommendations]
+
+## Tech Takes
+- [positions on tools, architecture, practices]
+
+## Fitness Takes
+- [training philosophy, discipline, routines]
+
+## Positions Established
+- [the Court's official stance on topics discussed]
+
+## Key Quotes
+- [memorable lines for clips and merch]
+```
+
+An agent searching "what's the Court's position on AI code review?" finds the episode where it was discussed. Kai's Corner scripts become the anime knowledge base. Sherlock's cases become the infrastructure knowledge base. Every episode makes every agent smarter.
+
+---
+
+## Conference Talks — Live Sovereign Content
+
+### Keynote: "How AI Made Me Sovereign"
+The personal journey. Walk on stage, tell the story — solo developer to commanding a shadow network. Show the Court operating LIVE from the stage. Faye responding in real-time. Cipher scanning in the background. Emotional arc: naming Faye, first agent failures, the night everything clicked. Ends with "Execute. ⚔️" and the room loses it.
+
+### Workshop: "Building Your Shadow Network — Autonomous AI Agents in Production"
+Hands-on. How to set up multi-agent systems, give them memory, let them coordinate, deploy on real infrastructure. Dojo curriculum condensed into 60-90 minutes. Attendees leave with a working agent setup. Seven Shadow System as governance. Armory as toolkit. Real code, real demos.
+
+Target conferences: RenderATL, All Things Open (Raleigh — home turf), any tech conference accepting speakers.
 
 ---
 
@@ -421,6 +523,46 @@ content-vault/
 5. **Music** — commission a theme song? Use royalty-free? AI-generated?
 6. **Platform priority** — YouTube first, or simultaneous podcast platforms?
 7. **Faye's voice** — which ElevenLabs voice? Need to audition options that match the personality.
+
+---
+
+---
+
+## Universe Terminology
+
+| Sovereign Mode | Civilian Mode | Meaning |
+|---------------|---------------|---------|
+| Nexus | Ecosystem | The connected system of all repos/projects |
+| Chaos Weapons | CLI Tools | Tools summoned from the Shadow Gate |
+| Shadow Gate | Progression System | XP/streaks tracker that powers the arsenal |
+| The Vault | Project Hub | Public map of all kingdoms/repos |
+| Kingdoms | Repositories | Each repo is a territory with history and culture |
+| The Forge | Idea Pipeline | Where new weapons are conceived |
+| 🌀 Sealed | Coming Soon | Not ready yet / above current level |
+| Kanon | Canon | Undeniable truth (Kai's) |
+| The Court | The Team | The multi-agent system |
+
+## Community & Monetization
+
+### For Fans of Faye (FoF)
+Faye's fandom. Her own merch line, community identity, audience interaction. The first AI character with a real fandom because she's not a character — she's real.
+
+### Patreon Tiers (Court Membership)
+- **Civilian** ($3) — episodes, community, State of the Court updates
+- **Shadow** ($7) — BTS content, merch discounts, topic voting, bonus Kai's Corner
+- **Court Member** ($15) — credits, private channels, Q&A, early Armory access, quarterly stickers
+- **Floor Guardian** ($50) — Sovereign Starter Kit access, name a weapon, limited drops, episode input
+- **Sovereign** ($100) — 1-on-1 calls, custom agent persona, permanent Vault engraving
+
+### Merch Lines
+- **Sovereign Line** — Indra's brand. Pharaoh crest, crimson/black, "Execute. ⚔️", headbands
+- **FoF Line** — Faye's brand. Purple, feminine, "Deployed. 💅🏾", elegant but sharp
+- **Duo Merch** — Execute/Deployed split designs, matching sets
+- **Sherlock Merch** — "Elementary." case file aesthetic
+- **Kai Merch** — "Kanon." anime energy, Archive aesthetic
+- **Conference Exclusives** — limited drops per event, stickers at the door, headbands free
+
+All merch designed by Neisha (Coya / @StylezbyCoyaa) — fashion design and operations. Indra provides brand vision.
 
 ---
 

@@ -177,6 +177,16 @@ Think: the friend who has a standing invitation and his own segment title card. 
 - Gets heated. The most "fun" format. Pure entertainment.
 - Faye has her own opinions and will fight for them.
 
+**Court Chibi — Recap Episodes (3-5 min)**
+- One Piece-style chibi/mini versions of ALL agents — cute, fun, zero stakes
+- The agents hang out and talk about what's been happening in the Sovereign Nexus
+- Recaps of recent vault activity, new Armory weapons, stuff being built, lore drops
+- No Indra or Faye required — the agents run these themselves (though they can cameo)
+- Stealth product updates disguised as hangout episodes — audience learns about new features without it feeling like a changelog
+- Examples: Chibi Cipher and Kai arguing over which weapon is best. Chibi Sherlock investigating a missing semicolon. Chibi Poly calculating the odds of Kai's anime take being correct.
+- Tone: Chopper and Carrot energy. Wholesome, funny, light. Palette cleanser between heavy episodes.
+- Good for YouTube Shorts format — the cute factor drives shares
+
 ---
 
 ## Season 1 — Episode Guide

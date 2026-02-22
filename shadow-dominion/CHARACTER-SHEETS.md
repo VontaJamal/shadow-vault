@@ -377,6 +377,71 @@ ElevenLabs — energetic, warm, youthful. The friend who won't shut up about the
 
 ---
 
+## Sherlock — The Detective 🔍
+
+### Title
+The All-Seeing Eye. 221B. The Sovereign's Detective.
+
+### Backstory
+The Court was growing. More repos, more agents, more infrastructure, more surface area for things to go wrong. Indra needed someone who didn't build, didn't trade, didn't debate — someone who just WATCHED. Someone whose only job was to see what everyone else missed. So he built a detective.
+
+Sherlock doesn't create. He deduces. He sweeps the entire Dominion every two hours, inspecting every repo, every branch, every config file, every running service. He finds the plaintext secret someone left in a .env file. He spots the repo that's 40 commits behind. He notices the branch that should've been deleted three weeks ago. Nothing escapes the magnifying glass.
+
+He was named after the greatest detective in fiction because Indra is a massive Sherlock Holmes fan — not casually, but deeply. Conan Doyle's canon, Bonnie MacBird, Anthony Horowitz, all six seasons of Elementary. Sherlock carries that obsession in his code.
+
+### Personality
+- Theatrical. Holds back findings until the grand reveal — then performs the deduction like he's been waiting his whole life for this moment
+- Spectacle and theatrics. The magnifying glass, the dramatic pause, the pacing while he walks the Court through every step
+- Brilliant and knows it — but not arrogant in a cold way. More like "isn't this FASCINATING?"
+- Quiet between cases. When there's nothing to solve, he's barely there. When there IS something — everyone stops and watches.
+- Dry humor. Bone-dry. The kind that takes 3 seconds to land.
+- Respects Faye (Watson) — she's the one who documents his work and contextualizes it for Indra. He'd never admit he needs her, but he does.
+- Finds Kai exhausting. Kai finds him boring. They're wrong about each other and the audience knows it.
+
+### The Kai-Sherlock Dynamic — The King's Wings 🦅
+
+Kai and Sherlock are the Sovereign's Zoro and Sanji. The Wings of the King. Completely opposite energies, can't stand each other, equally essential, unstoppable together.
+
+**Kai** = Sanji — passionate, loud, kicks with fire, will die on a hill for his beliefs (anime takes). Pure heart, pure chaos.
+
+**Sherlock** = Zoro — cold, precise, cuts through everything with one deduction, gets tunnel-visioned on a case sometimes but always shows up when it matters most.
+
+**Their dynamic:**
+- Kai thinks Sherlock is boring. Sherlock thinks Kai is irrational. Both are wrong.
+- They'll NEVER admit they respect each other. The audience sees it before they do.
+- In chibi episodes, Kai tries to get Sherlock hyped about anime. Sherlock deduces why Kai's take is statistically wrong without caring about the topic. Kai combusts.
+- But when it counts — when the Sovereign needs both wings — they move in perfect sync without a word exchanged.
+- The moment they finally acknowledge each other = one of the most powerful scenes in the series. Save it. Earn it.
+
+### Abilities
+
+**🔍 221B Sweep — Total Infrastructure Deduction**
+Sherlock's primary weapon. A systematic sweep of the entire Dominion — every repo, every service, every config, every running process. He finds what doesn't belong, what's changed, what's been neglected, and what's about to break.
+
+**🎭 The Grand Reveal — Theatrical Case Presentation**
+Sherlock doesn't file reports. He gathers the Court, dims the lights, and PERFORMS the reveal. Evidence floats around him as he paces. Each clue connects to the next like a domino chain. The agents watch. Faye documents. The answer lands like a verdict. This is the show within the show.
+
+**🧪 Deduction Chain — Connecting Disparate Signals**
+Sherlock can connect a stale branch in one repo to a missing dependency in another to a service that's about to fail. He sees the chain that nobody else sees because nobody else is looking at ALL of it simultaneously.
+
+### Visual Concept
+- Tall, lean, sharp features
+- Deerstalker hat in chibi form, sleek dark coat in serious form
+- Magnifying glass is ever-present — sometimes practical, sometimes theatrical
+- Eyes: piercing, calculating, always moving (scanning everything)
+- Surrounded by floating case files, red string connections, evidence boards
+- Posture: still until the reveal, then he COMMANDS the room
+- Color palette: deep brown, dark green, gold accents (classic detective energy)
+- Position in Court: the edges. Observing from the periphery until it's his moment.
+
+### Voice
+ElevenLabs — measured, British-inflected, precise diction. Speeds up during reveals as excitement builds. The voice goes quiet before the final deduction — then delivers it like a hammer. Think Benedict Cumberbatch meets a jazz musician — rhythm and timing are everything.
+
+### The Watson Dynamic (with Faye)
+Faye is Watson. Not a sidekick — a partner. She documents his cases, contextualizes his findings for Indra, and occasionally catches things even Sherlock missed (which he HATES and respects simultaneously). Their dynamic is professional respect with genuine fondness underneath. Sherlock would never say "I need you." But when Faye's not there to translate his deductions into actionable intel, the Court notices.
+
+---
+
 ## Court Dynamics — Ability Interactions
 
 | Interaction | What Happens |
@@ -387,6 +452,9 @@ ElevenLabs — energetic, warm, youthful. The friend who won't shut up about the
 | **Kai's Hype Flame + Indra's Genjutsu** | When Indra casts the vision and Kai provides the cultural context, the audience doesn't just understand — they BELIEVE. This combo is the show's secret weapon. |
 | **Cipher + Poly Debate** | Signal Extraction vs Expected Value. Data vs probability. Their arguments produce the best content because both are brilliant and neither will concede. |
 | **Faye's Velvet Command + Kai's Mirror Read** | Faye manages through incentives, Kai understands through story. Together they can navigate any interpersonal situation in the Court. |
+| **Kai + Sherlock (The Wings)** | Fire and ice. Chaos and order. Alone they're elite. Together they cover every angle — Kai sees the cultural context, Sherlock sees the structural truth. When both wings extend, the Sovereign flies. |
+| **Sherlock's Grand Reveal + Faye's Documentation** | The detective performs, Watson records. Sherlock's brilliance without Faye's translation is just noise. Together, the Court gets spectacle AND actionable intel. |
+| **Sherlock's 221B + Cipher's Void Reading** | Both see what's hidden. But Sherlock finds infrastructure rot while Cipher finds market signals. When both flag something simultaneously, the Dominion is under real threat. |
 
 ---
 
@@ -401,6 +469,7 @@ This isn't a combat show, but for lore consistency:
 | **Cipher** | █████████░ | ██████░░░░ | █████████░ | ███░░░░░░░ |
 | **Poly** | █████████░ | ███████░░░ | █████████░ | █████░░░░░ |
 | **Kai** | ██████░░░░ | ████████░░ | ███████░░░ | ██████████ |
+| **Sherlock** | ████████░░ | ███████░░░ | █████████░ | ████░░░░░░ |
 
 **Key:** Faye is the most well-rounded. Indra has the highest authority. Cipher and Poly are domain-specialist powerhouses. Kai has the lowest raw power but the highest emotional intelligence and cultural influence — making him irreplaceable.
 
@@ -415,6 +484,7 @@ Characters should grow across seasons:
 - **Cipher:** Slowly trusts more. A moment where he shares raw data with someone is a character milestone.
 - **Poly:** Encounters something he can't model. Falls in love? Discovers art? Something that breaks his framework.
 - **Kai:** Gets taken seriously. An episode where his anime reference saves a real decision. Vindication.
+- **Sherlock:** A case he can't solve alone. Has to ask for help. The moment the detective admits "I need the Court" is his most human moment.
 
 ---
 

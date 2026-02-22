@@ -77,6 +77,31 @@ Neisha is a stylist and already into designing clothes. She runs the fashion sid
 
 **When to start:** After the crest is finalized and character designs are locked. The logo needs to exist before it goes on fabric.
 
+---
+
+## 📬 Newsletter / Community Naming — IDEA BOX
+
+Need a name for the newsletter and community. "Shadowverse" is taken (popular card game, unwinnable SEO).
+
+**Newsletter name ideas:**
+- The Dominion Wire
+- Court Dispatch
+- The Sovereign Signal
+- Gate Mail
+- The Nexus
+- Shadow Ledger
+- The Doctrine
+
+**Community/universe name ideas:**
+- The Dominion
+- The Sovereign Nexus
+- The Court
+- Sovereign Nation
+
+**Status:** Parking lot. Revisit later.
+
+---
+
 ### Status
 - ✅ Direction LOCKED (pharaoh + crossed daggers + Rinshari eyes)
 - ✅ Tiers defined (full crest, Sovereign variant, simplified mark)

@@ -10,20 +10,18 @@ Most doors don't open. The ones that do are worth finding.
 
 | Gate | Status |
 |------|--------|
-| [Shadow Dominion](shadow-dominion/) | ⛩️ Open |
+| [Sovereign](shadow-dominion/) | ⛩️ Open |
 | [The Armory](armory/) | ⛩️ Open |
 | [Seven Shadow System](seven-shadow-system/) | ⛩️ Open |
 | [SyncLink](synclink/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
+| [Faye](faye/) | ⛩️ Open |
 | Shadow Court Anime | 🌀 |
 | Shadow Gate | 🌀 |
-| Faye | 🌀 |
 | Grimoire | 🌀 |
 | Dojo | 🌀 |
 | Bingo Book | 🌀 |
 | Prediction Claw | 🌀 |
-| Sovereign Kit | 🔒 Private |
-| Faye Culture Kit | 🔒 Private |
 
 ---
 

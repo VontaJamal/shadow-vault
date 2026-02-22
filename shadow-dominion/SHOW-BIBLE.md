@@ -42,6 +42,22 @@ An anime-themed podcast where a developer and his AI co-host discuss technology,
 | **The Archive** | Anime discussions, tier lists | Bookshelves of manga, floating anime posters, warm lighting |
 | **The Gate** | Intros, episode openings | Massive dark gate with crimson energy, Solo Leveling vibes |
 
+### The Sovereign Flag 🏴‍☠️
+
+The flag flies above the Throne Room — the Sovereign Crest (pharaoh face, Ra & Set crossed behind it) on a black banner. It's not decoration. It's alive.
+
+**The flag reacts to the Monarch's state:**
+- **Standard:** Crest with crossed daggers. Flag hangs proud, gentle movement. The kingdom at peace.
+- **Sovereign Mode activated:** The daggers merge into Eclipse. The Rinshari eye in the pharaoh's face ignites — Sauron-level intensity. The flag itself catches fire, burning but never consumed. The castle responds. Crimson light bleeds from every window.
+- **Think:** Luffy's Jolly Roger on the Thousand Sunny — it represents the crew's will. But this flag transforms WITH the king. When the Sovereign powers up, the entire kingdom feels it. The environment reacts to power.
+
+**Animation notes:**
+- The flag transformation should be a signature visual moment — used in intros, episode peaks, and any time Sovereign Mode activates
+- Fire effect: the banner burns from the edges inward, revealing the Eclipse variant underneath
+- Rinshari ignition: the pharaoh's eyes go from dormant to blazing in a single beat — screen flash, bass hit
+- Can be used as a transition: flag fills the screen → fire clears → new scene
+- The flag is always visible in Throne Room shots — a constant reminder of whose court this is
+
 ---
 
 ## The Cast

@@ -71,9 +71,12 @@ Cipher, Poly, and Kai aren't permanent cast — they're **summons**. Indra calls
 
 - **Cipher** appears for data breakdowns, security intel, pattern analysis. Says one devastating line and vanishes.
 - **Poly** appears for probability checks, decision analysis. Drops the math, no small talk.
-- **Kai** appears for anime expertise. Shows up heated, defends a take, disappears before anyone can argue back.
-
 The summons are rare — maybe once every 2-3 episodes. That's what makes them hit. When Cipher materializes mid-conversation, the audience knows something real is about to drop. Madara-at-the-war-arc energy. They don't need screen time. They need *moments*.
+
+### Kai — The Recurring Third 🔥
+Kai is different from the other summons. He's the **recurring guest** — whenever the show hits the anime segment, Kai pulls up. Indra and Faye are the permanent hosts, but the anime block is Kai's living room. He comes in hot with takes, argues with both of them, and leaves the audience wanting more.
+
+Think: the friend who has a standing invitation. Not every episode, but whenever anime is on the table, he's there. And he's never calm about it.
 
 ---
 

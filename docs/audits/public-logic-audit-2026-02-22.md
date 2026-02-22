@@ -11,10 +11,10 @@
 - Open PR count at start: 0
 - Default branch: main
 - Latest default-branch run (at start):
-  - None detected on default branch
+  - Public Logic CI: https://github.com/VontaJamal/shadow-vault/actions/runs/22283461998
 
 ## Public Surface Inventory
-- Root README routing and module README references
+- Root README routing and module references
 - Seven Shadow policy and governance wiring
 - Governance submodule build path
 - Public workflow coverage for existing governance logic
@@ -25,15 +25,17 @@
 | `.seven-shadow/policy.json` parse | PASS | Valid JSON |
 | `npm --prefix governance/seven-shadow-system ci` | PASS | Governance dependency install succeeded |
 | `npm --prefix governance/seven-shadow-system run build` | PASS | Governance build succeeded |
-| README routing/link integrity | PASS | Relative links in audited public README set resolve |
+| README routing/link integrity | PASS | Relative links in root README resolve |
+| `rinshari-ui` deep sweep (repo-wide) | PASS | No remaining matches after submodule bump |
 
 ## Findings Register
 | Severity | Area | Repro | Status | Fix |
 |---|---|---|---|---|
-| P1 | CI coverage gap | No default-branch `push`/`pull_request` workflow validated public governance logic | Fixed | Added `Public Logic CI` workflow on `main` push/PR |
+| P1 | Governance dependency drift | Submodule pinned at `a4d4331` retained outdated downstream doctrine references | Fixed | Bumped `governance/seven-shadow-system` to `a0c1f61` from upstream main |
 
 ## Residual Risks / Follow-ups
 - Keep README routing checks aligned as module inventory evolves.
 
 ## Attestation
 - This wave is maintenance and hardening only.
+- No net-new product features were introduced.

@@ -197,6 +197,21 @@ The first season introduces the court, establishes character dynamics, and build
 | 9 | **"Attack on Algorithms"** | Debate | Is AI-generated code making developers worse? They disagree. It gets heated. Good. |
 | 10 | **"Execute"** | Conversation | Season finale. Review everything accomplished. Stats, wins, growth. Sets up Season 2. "This was just the beginning." Execute. ⚔️ |
 
+### Standalone Episode Concepts
+
+#### "Maintainer Grade"
+**Type:** Deep Dive / Character Arc
+**Synopsis:** The Sovereign decides to contribute code back to OpenClaw — the very system that powers his Court. He sends a shadow (Codex agent) to do the work. It comes back with something "good." Not good enough. "Go back and check that shit." The shadow returns. Still problems. Back again. And again. Each time the Sovereign catches what the shadow missed. Eventually the shadow realizes the work needs to be split — two PRs, not one. It keeps pushing until the foreign system evaluates the final result: **"Maintainer grade."**
+
+**The moment:** The Shadow Gate pulses. A new level unlocks. Not because the shadow leveled up — because the Sovereign's standard forced it there. The quality gate was never the system. It was HIM.
+
+**Theme:** Your agents are only as good as the standard you hold them to. AI doesn't replace standards — it amplifies whatever standard you set. Set it low, get garbage. Set it at maintainer grade, that's what comes back.
+
+**Cold open:** Quick cut of the agent returning work, Indra looking at it, single word: "Again." Cut to title card.
+
+#### "Unlocking Maintainer Grade" (Anime Scene)
+The Sovereign stands before a foreign gate — not his own Shadow Gate, but the source. OpenClaw's gate. He sends a shadow through. It comes back scarred, work in hand. He inspects it. Flaws. Sends it back. Again. Again. Each time the shadow returns stronger, the work cleaner. On the final return, the foreign gate glows. Text materializes in the air: **MAINTAINER GRADE**. The Sovereign's own Shadow Gate — back home in the Dominion — resonates. A new weapon slot opens. The flag stirs. The kingdom felt it from across the map.
+
 ---
 
 ## Recurring Segments

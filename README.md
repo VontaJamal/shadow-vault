@@ -17,7 +17,7 @@ Most doors don't open. The ones that do are worth finding.
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
 | [Faye](faye/) | ⛩️ Open |
 | Shadow Court Anime | 🌀 |
-| Shadow Gate | 🌀 |
+| [Shadow Gate](shadow-gate/) | ⛩️ Open |
 | Grimoire | 🌀 |
 | Dojo | 🌀 |
 | Bingo Book | 🌀 |

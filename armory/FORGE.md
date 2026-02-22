@@ -11,9 +11,9 @@ These are concepts — weapons, spells, summons, and items being shaped before t
 | Shop | Count | Target Range |
 |------|-------|-------------|
 | ⚔️ Weapons | 8 | 8–15 |
-| 📜 Spells | 5 | 8–12 |
+| 📜 Spells | 6 | 8–12 |
 | 🐉 Summons | 6 | 6–10 |
-| 🎒 Items | 6 | 8–12 |
+| 🎒 Items | 7 | 8–12 |
 
 **Priority fill:** Spells and Items are light. Next builds should lean there unless a weapon/summon concept is too good to wait.
 
@@ -56,9 +56,11 @@ The Seven Shadow System guard already hooks into PRs and CI. This extends it fro
 
 ## Recently Shipped
 
-*Tools that graduated from the Forge into the Armory.*
+**🎵 Spell — Fanfare** (Feb 21)
+Victory sound on task completion. Four melodies (victory, levelup, alert, error), terminal bell for SSH, custom .wav support, Windows toast notifications. Chain after any command: `long-task; faye ff`
 
-<!-- Moved here when a concept gets built and merged -->
+**🔍 Item — 221B** (Feb 21)
+Sherlock Holmes for your codebase. Point at a project and it deduces what's wrong — config contradictions, stale branches, dead paths, missing deps, plaintext secrets, .gitignore gaps. Cross-references file system state against declarations. Every deduction cites evidence.
 
 ---
 

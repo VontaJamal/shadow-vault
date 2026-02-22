@@ -80,6 +80,9 @@ Kai comes in hot with takes, argues with both of them, and leaves the audience w
 
 Think: the friend who has a standing invitation and his own segment title card. The audience learns to get hyped when "Kai's Corner" hits the screen.
 
+**Brainstorm — potential sub-segments within Kai's Corner:**
+- **Ani-Mayday** — "Mayday mayday, this anime is going DOWN." Kai sounds the alarm on shows falling off — mid seasons, botched adaptations, overhyped series trending down in public opinion. Not a hate segment — a diagnostic. Why is it failing? Can it recover? Think emergency broadcast energy.
+
 ---
 
 ## Episode Structure

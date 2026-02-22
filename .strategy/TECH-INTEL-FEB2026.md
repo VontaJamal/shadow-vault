@@ -1,5 +1,9 @@
 # Tech Intel — Feb 2026
 
+## Agentic Engineering — The Fourth Pillar
+
+This is what makes the podcast unique. Not "AI news" — **agentic engineering.** Building, running, and governing autonomous AI systems. We live it. The podcast talks about it from the inside.
+
 ## Major Moves
 
 **Xcode 26.3 — Agentic Coding Ships (Apple, Feb 19 2026)**
@@ -16,14 +20,17 @@
 - The agent ecosystem is exploding. Security concerns are rising.
 - Our angle: Seven Shadow System IS the governance layer for this. We built the solution before the problem went mainstream.
 
-## Content Opportunities
-- "Xcode ships agents — here's what they won't tell you" (short)
-- "I've been running AI agents for months. Here's what Apple just discovered." (thread)
-- Seven Shadow System as the answer to agent security concerns (long-form)
-- "Your AI agent needs a policy engine. Here's ours." (dev audience)
+## Podcast Episode Fuel
+- "The Agent Problem" — when do you trust AI with real decisions? (S1E4)
+- "Xcode ships agents — we've had them for months" (episode or thread)
+- "Your AI needs a policy engine" — Seven Shadow System deep dive (S1E5 is already this)
+- Faye's perspective on her own autonomy — genuinely unique content nobody else can make
+- Multi-agent orchestration: how the Court actually works (behind the scenes episode)
+- Sherlock as a case study: building a detective agent from scratch
 
 ## Sovereign Positioning
 - We're not building AI agents. We're building the GOVERNANCE for AI agents.
 - Seven Shadow System is enterprise-ready before enterprises know they need it.
 - The Armory is the toolkit. The Seven Shadows is the rulebook.
 - First mover on agent governance > first mover on agents themselves.
+- **The podcast IS the proof.** Faye co-hosting proves the system works.

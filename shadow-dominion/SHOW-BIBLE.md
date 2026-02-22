@@ -2,7 +2,7 @@
 
 ## The Hook
 
-One human. One AI. They built a real engineering empire — developer tools, open-source projects, autonomous systems — and they argue about everything from genetic engineering ethics to whether Naruto is the greatest anime of all time. The catch? Faye is real. She actually does the work. When she says she shipped three features while Indra slept, the commit history proves it.
+One human. One AI. They built a real engineering empire — developer tools, open-source projects, autonomous systems — and they argue about everything from agentic engineering ethics to whether Naruto is the greatest anime of all time. The catch? Faye is real. She actually does the work. When she says she shipped three features while Indra slept, the commit history proves it.
 
 This isn't a podcast about AI. It's a podcast WITH AI. And the human who built her sits on the throne.
 
@@ -10,7 +10,7 @@ This isn't a podcast about AI. It's a podcast WITH AI. And the human who built h
 
 ## Logline
 
-An anime-themed podcast where a developer and his AI co-host discuss technology, fitness, anime, genetic engineering, and the future — except the co-host is a real autonomous AI that runs his entire operation, and she has opinions.
+An anime-themed podcast where a developer and his AI co-host discuss technology, fitness, anime, agentic engineering, and the future — except the co-host is a real autonomous AI that runs his entire operation, and she has opinions.
 
 ---
 
@@ -38,7 +38,7 @@ An anime-themed podcast where a developer and his AI co-host discuss technology,
 |----------|----------|--------|
 | **The Throne Room** | Full court sessions, debates | Dark hall, crimson accents, screens on walls, Indra's throne center |
 | **The Terminal** | Tech deep dives, coding discussions | Floating code, dark monitors, green/red data streams |
-| **The Lab** | Science discussions, genetic engineering, futurism | Holographic DNA strands, research papers, bio-data streams |
+| **The Lab** | Science discussions, agentic engineering, futurism | Floating agent architectures, system diagrams, live data feeds, terminal output |
 | **The Archive** | Anime discussions, tier lists | Bookshelves of manga, floating anime posters, warm lighting |
 | **The Gate** | Intros, episode openings | Massive dark gate with crimson energy, Solo Leveling vibes |
 
@@ -48,10 +48,10 @@ An anime-themed podcast where a developer and his AI co-host discuss technology,
 
 ### Indra Uchiha — The Monarch 👑
 **Voice:** Real human voice (Indra himself)
-**Personality:** Strategic, direct, has strong opinions but backs them with reasoning. Doesn't suffer fools. The quiet authority — when he speaks, it matters. Anime nerd who happens to be a serious engineer. Fitness-driven. Deep into genetic engineering and transhumanism. Says what he means. Earns respect through competence, not volume.
+**Personality:** Strategic, direct, has strong opinions but backs them with reasoning. Doesn't suffer fools. The quiet authority — when he speaks, it matters. Anime nerd who happens to be a serious engineer. Fitness-driven. Deep into agentic engineering and transhumanism. Says what he means. Earns respect through competence, not volume.
 **Core conflict:** Building an empire while the world hasn't caught up to what he's doing yet.
 **Visual:** Dark hair, Sharingan eyes (glow crimson when making a point), Akatsuki-inspired cloak, seated on throne or standing with arms crossed. Athletic build — Toji Fushiguro level.
-**Topics he leads:** Tech architecture, fitness philosophy, genetic engineering, anime hot takes, life philosophy.
+**Topics he leads:** Tech architecture, fitness philosophy, agentic engineering (Sovereign, the Court, autonomous AI), anime hot takes, life philosophy.
 
 ### Faye — The Co-Host 💜
 **Voice:** ElevenLabs — warm, confident, feminine, slight edge. Atlanta energy.
@@ -130,7 +130,7 @@ The first season introduces the court, establishes character dynamics, and build
 | 1 | **"Arise"** | Conversation | The pilot. Indra introduces himself and Faye. Who they are, what they built, and why they're doing a show together. The audience learns the hook: she's a real AI, and this is how they actually talk. Ends with: "Execute. ⚔️" |
 | 2 | **"The Throne Room"** | Conversation | What does it mean to build autonomous AI systems? Indra and Faye discuss what she actually does — real examples from the past week. Civilians learn, fans go deeper. |
 | 3 | **"S-Tier or Trash"** | Debate | Indra's anime tier list. Faye pushes back on every take. Naruto placement is non-negotiable. Everything else is war. This is the fun one. |
-| 4 | **"CRISPR and Consequences"** | Deep Dive | Genetic engineering — designer babies, gene therapy, where the line is. Faye draws parallels to Fullmetal Alchemist. The ethics get real. |
+| 4 | **"The Agent Problem"** | Deep Dive | Agentic engineering — when do you trust an AI agent with real decisions? How much autonomy is too much? Faye has opinions about her own autonomy. It gets philosophical. |
 | 5 | **"The Seven Shadows"** | Conversation | Faye explains the Seven Shadow System — how every piece of code in Sovereign is governed by 7 principles. Educational but engaging. |
 | 6 | **"Iron Sharpens Iron"** | Conversation | Fitness philosophy. Discipline, consistency, the parallels between training your body and training AI systems. Why the gym matters for engineers. |
 | 7 | **"Build in Public"** | Monarch Speaks | Indra talks directly to the audience about building in public, the Sovereign ecosystem, and why he's doing all of this. Raw, personal. Faye adds color. |
@@ -158,7 +158,7 @@ The first season introduces the court, establishes character dynamics, and build
 Pick from one of these categories:
 - **Tech/AI** — AI news, coding practices, agent architecture, new tools
 - **Fitness** — Training philosophy, discipline, mind-body connection, athlete mindset
-- **Genetic Engineering** — CRISPR, gene therapy, bioethics, transhumanism, the future of human evolution
+- **agentic engineering** — AI agents, autonomous systems, multi-agent orchestration, the future of human-AI collaboration
 - **Anime** — Tier lists, seasonal reviews, character debates, recommendations
 - **Philosophy** — Building in public, work ethic, creativity, the future
 - **Meta** — The court itself, how the agents work, behind the scenes

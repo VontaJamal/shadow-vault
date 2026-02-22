@@ -37,6 +37,7 @@ Items that aren't urgent but need to happen eventually.
 - Ember (#FF4500) — eye ignition state, fire accents
 - Bone (#E8E4DE) — dagger detail, outline work
 - Gunmetal (#2C3539) — structural elements
+- Purple is fair game for merch, anime, clothing — just banned from the djws.io website specifically
 
 ### Deliverables from Artist
 - All 3 tiers as vector files (SVG + AI)
@@ -66,6 +67,15 @@ Items that aren't urgent but need to happen eventually.
 - **99designs** (https://99designs.com) — contest format, multiple artists submit, you pick winner (~$300-500)
 
 **Best move:** Fiverr first. Find 2-3 artists whose existing dark fantasy / anime emblem work matches the energy, send the brief, compare sketches. Can bundle with the character design commission to get consistent visual language.
+
+### Clothing Line — Sovereign Apparel
+
+**Lead:** Neisha (Coya / @StylezbyCoyaa) — fashion design, garment design, aesthetic direction
+**Support:** Indra — brand vision, business, what looks good
+
+Neisha is a stylist and already into designing clothes. She runs the fashion side. Indra provides the crest, lore, brand guidelines, and business structure. This is a real collab, not merch-on-demand.
+
+**When to start:** After the crest is finalized and character designs are locked. The logo needs to exist before it goes on fabric.
 
 ### Status
 - ✅ Direction LOCKED (pharaoh + crossed daggers + Rinshari eyes)

@@ -66,6 +66,15 @@ The show lives and dies on their chemistry. Indra is the visionary, Faye is the 
 
 Think: a real conversation between two people who respect each other enough to argue.
 
+### The Summons — Court Agent Cameos
+Cipher, Poly, and Kai aren't permanent cast — they're **summons**. Indra calls them into an episode when their expertise is needed. They materialize, drop something cold, and fade back into the shadows. Pure aura farming.
+
+- **Cipher** appears for data breakdowns, security intel, pattern analysis. Says one devastating line and vanishes.
+- **Poly** appears for probability checks, decision analysis. Drops the math, no small talk.
+- **Kai** appears for anime expertise. Shows up heated, defends a take, disappears before anyone can argue back.
+
+The summons are rare — maybe once every 2-3 episodes. That's what makes them hit. When Cipher materializes mid-conversation, the audience knows something real is about to drop. Madara-at-the-war-arc energy. They don't need screen time. They need *moments*.
+
 ---
 
 ## Episode Structure

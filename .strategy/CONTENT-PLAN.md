@@ -227,7 +227,7 @@ Every week, drop one new tool/feature with a short + thread. The audience learns
 Show Shadow Gate stats — streaks, XP, rank. Public accountability.
 
 ### "Court Report" (Monthly)
-What the agents did this month. Trades, code shipped, decisions made. The AI army's monthly review.
+What the agents did this month. Code shipped, tools built, decisions made. The AI army's monthly review.
 
 ### "Lore Drop" (Whenever)
 Explain one naming choice. Why Ramuh? Why Zantetsuken? What's a Bingo Book? The FF/anime fans will LOVE these.
@@ -242,7 +242,7 @@ Explain one naming choice. Why Ramuh? Why Zantetsuken? What's a Bingo Book? The 
 - Voice: real voice preferred for authenticity, AI voice clone for batch production
 - Every video ends with: **"Execute. ⚔️"**
 - Never explain anime references. If they don't know, they'll look it up. That's the hook.
-- Trading content: paper trading only. Never show real positions, account balances, or alpha.
+- No trading or crypto content on public channels. That stays internal.
 - Don't soften the personality for any platform. LinkedIn gets the same energy, just slightly more structured.
 
 ---

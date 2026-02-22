@@ -71,7 +71,7 @@ Generated from 2 weeks of git history across the Shadow Dominion ecosystem.
 | 5 | "Give Your AI a Voice — Faye Setup Guide" | Full wake word + TTS walkthrough | 8-10 min | Faye |
 | 6 | "The Armory Deep Dive: Every Weapon Explained" | Tool-by-tool walkthrough with real demos | 12-15 min | Armory |
 | 7 | "Multi-Agent Orchestration for Beginners" | Dojo Week 1-2 content as a standalone video | 10 min | Dojo |
-| 8 | "How I Use AI Agents to Trade Crypto 24/7" | Pipeline architecture, paper trading, results | 10-15 min | Trading (careful - no alpha leak) |
+| 8 | "Building Autonomous Systems That Never Sleep" | Agent architecture, always-on infrastructure, real examples | 10-15 min | Sovereign |
 
 ### Tier 3 — When Projects Ship
 | # | Title | Project | Status |
@@ -107,5 +107,5 @@ Generated from 2 weeks of git history across the Shadow Dominion ecosystem.
 - All shorts should have captions/text overlay — most people watch muted
 - Terminal recordings: use a clean theme, large font, dark background
 - Show the personality — FF names, Solo Leveling references, the lore IS the brand
-- Trading content: paper trading only, never show real positions or alpha
+- No trading or crypto content — keep that off public channels entirely
 - Every video ends with: **"Execute. ⚔️"**

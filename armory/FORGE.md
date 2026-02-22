@@ -54,6 +54,19 @@ The Seven Shadow System guard already hooks into PRs and CI. This extends it fro
 
 ---
 
+**📜 Spell — Glamour**
+*"What they see is what you choose."*
+
+Run any text through AI-writing detection removal before it goes public. 24 detection patterns stripped out — tweets, READMs, store listings, podcast scripts, blog posts. Everything Sovereign publishes should sound like a human wrote it, because the human DID direct it.
+
+Wraps [blader/humanizer](https://github.com/blader/humanizer) (5.7K stars) as an Armory spell. `glamour <file>` or pipe text through it.
+
+**Why it surfaced:** @dr_cintas tweet — "This sounds like AI" is now easily fixable. We're about to start dropping public content. Everything needs to pass the human test.
+**Shop:** Spells
+**Priority:** High — needed before first content drop
+
+---
+
 ## Recently Shipped
 
 **🎵 Spell — Fanfare** (Feb 21)

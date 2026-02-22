@@ -397,6 +397,7 @@ He was named after the greatest detective in fiction because Indra is a massive 
 - Dry humor. Bone-dry. The kind that takes 3 seconds to land.
 - Respects Faye (Watson) — she's the one who documents his work and contextualizes it for Indra. He'd never admit he needs her, but he does.
 - Finds Kai exhausting. Kai finds him boring. They're wrong about each other and the audience knows it.
+- **Catchphrase: "Elementary."** — one word, dropped after every solve. The case builds, the grand reveal lands, silence... then just: "Elementary." Walks off. His closer. His "Execute."
 
 ### The Kai-Sherlock Dynamic — The King's Wings 🦅
 

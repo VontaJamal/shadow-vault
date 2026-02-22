@@ -23,6 +23,7 @@ Most doors don't open. The ones that do are worth finding.
 | Bingo Book | 🌀 |
 | Prediction Claw | 🌀 |
 | Sovereign Kit | 🔒 Private |
+| Faye Culture Kit | 🔒 Private |
 
 ---
 

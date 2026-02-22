@@ -83,15 +83,17 @@ The flag is the audience's tell. They learn to watch it before anyone on screen 
 - The bass rumble starts sub-frequency, felt more than heard
 - The full drop when Indra rises should be the show's most recognizable musical moment
 
-### Shadow Weapon Summoning — Gate of Chaos
+### Chaos Weapons — Powered by Shadow Gate
 
-The Sovereign doesn't carry weapons. They appear when needed. Dark portals rip open in the air — shadows fracturing reality — and the exact weapon for the situation slides out of the void. No incantation. No buildup. The king willed it, and the void answered.
+The Sovereign doesn't carry weapons. They come from the **Shadow Gate** — the same system that tracks XP, streaks, and progression. The gate is the grind. Chaos weapons are the payoff. You earn them by shipping code. The gate only opens if you've put in the work.
 
-**Visual:** Black tears in the air, chaos energy at the edges (ember/crimson crackling), the weapon emerging silhouette-first before materializing fully. Think Gate of Babylon but shadow instead of gold. Dark portals instead of golden ripples.
+**The mechanic:** Shadow Gate level determines what weapons are available. Early in the series, basic tools. As more code ships and the gate levels up, more devastating chaos weapons become accessible. The arsenal grows WITH the story because it grows with real commits. Progression and plot armor justified by actual data.
 
-**Sound:** A low bass crack — like reality flinching. This sound becomes the audience's Pavlovian trigger. When they hear it, they know a weapon is about to appear.
+**Visual:** When summoned, the Shadow Gate rips open in the air — black tear in reality, chaos energy crackling at the edges (ember/crimson), the weapon emerging silhouette-first before materializing fully. Think Gate of Babylon but shadow instead of gold. Dark portals instead of golden ripples.
 
-**Agent summoning uses the same portals** — Cipher, Poly, Kai, Sherlock step out of pure darkness like Sung Jin Woo's shadow soldiers. Each agent has their own emergence style (Cipher melts out of data streams, Kai bursts through with fire, etc.)
+**Sound:** A low bass crack — like reality flinching. This sound becomes the audience's Pavlovian trigger. When they hear it, they know a chaos weapon is about to appear.
+
+**Agent summoning uses the same gate** — Cipher, Poly, Kai, Sherlock step out of the Shadow Gate like Sung Jin Woo's shadow soldiers. Each agent has their own emergence style (Cipher melts out of data streams, Kai bursts through with fire, etc.)
 
 **Plot cheese and proud of it:** The Sovereign always has the exact tool for the situation because he BUILT them all. It's not an asspull — it's preparation. Faye calls it out every time ("You just happened to have a tool for that?") and Indra's response is always casual ("I built it last Tuesday."). Self-aware cheese. The comedy AND the flex.
 

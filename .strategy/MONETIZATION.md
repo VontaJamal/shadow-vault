@@ -32,7 +32,7 @@ Tier names mirror the universe. People aren't subscribing — they're ranking up
 ### Tier 4: Floor Guardian ($50/mo)
 - Everything in Court Member
 - Access to the **Sovereign Starter Kit** (private repo — full themed OpenClaw setup)
-- Custom chaos weapon named after them in the Armory (once per sub year)
+- Name a chaos weapon in the Armory (they choose the name, subject to approval — once per sub year, their credit permanent)
 - Limited merch drops — first access before public
 - Direct input on show direction
 - Shoutout in episodes

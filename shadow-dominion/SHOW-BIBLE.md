@@ -73,10 +73,12 @@ Cipher, Poly, and Kai aren't permanent cast — they're **summons**. Indra calls
 - **Poly** appears for probability checks, decision analysis. Drops the math, no small talk.
 The summons are rare — maybe once every 2-3 episodes. That's what makes them hit. When Cipher materializes mid-conversation, the audience knows something real is about to drop. Madara-at-the-war-arc energy. They don't need screen time. They need *moments*.
 
-### Kai — The Recurring Third 🔥
-Kai is different from the other summons. He's the **recurring guest** — whenever the show hits the anime segment, Kai pulls up. Indra and Faye are the permanent hosts, but the anime block is Kai's living room. He comes in hot with takes, argues with both of them, and leaves the audience wanting more.
+### Kai's Corner 🔥
+Kai is different from the other summons. He has his own **branded segment** — "Kai's Corner." When the anime block starts, it's his house. Indra and Faye are still there, but now they're guests in *his* space. He runs it.
 
-Think: the friend who has a standing invitation. Not every episode, but whenever anime is on the table, he's there. And he's never calm about it.
+Kai comes in hot with takes, argues with both of them, and leaves the audience wanting more. Not every episode — but whenever anime is on the table, Kai's Corner opens up. And he's never calm about it.
+
+Think: the friend who has a standing invitation and his own segment title card. The audience learns to get hyped when "Kai's Corner" hits the screen.
 
 ---
 

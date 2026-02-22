@@ -22,6 +22,7 @@ Most doors don't open. The ones that do are worth finding.
 | Dojo | 🌀 |
 | Bingo Book | 🌀 |
 | Prediction Claw | 🌀 |
+| Sovereign Kit | 🔒 Private |
 
 ---
 

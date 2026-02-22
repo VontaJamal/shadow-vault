@@ -1,8 +1,8 @@
 # The Vault
 
-You're inside.
+Welcome to the Vault.
 
-Most doors don't open. The ones that do are worth finding.
+This repository maps the Sovereign ecosystem. Open gates link to active public projects. Closed gates are in progress and documented as they develop.
 
 ---
 
@@ -15,13 +15,13 @@ Most doors don't open. The ones that do are worth finding.
 | [Seven Shadow System](seven-shadow-system/) | ⛩️ Open |
 | [SyncLink](synclink/) | ⛩️ Open |
 | [Rinshari Eye](rinshari-eye/) | ⛩️ Open |
-| [Faye](faye/) | ⛩️ Open |
-| Shadow Court Anime | 🌀 |
+| [Faye](faye/) | 🌀 Closed |
+| [Shadow Court Anime](shadow-court-anime/) | 🌀 Closed |
 | [Shadow Gate](shadow-gate/) | ⛩️ Open |
-| Grimoire | 🌀 |
-| Dojo | 🌀 |
-| Bingo Book | 🌀 |
-| Prediction Claw | 🌀 |
+| [Grimoire](grimoire/) | 🌀 Closed |
+| [Dojo](dojo/) | 🌀 Closed |
+| [Bingo Book](bingo-book/) | 🌀 Closed |
+| [Prediction Claw](prediction-claw/) | 🌀 Closed |
 
 ---
 

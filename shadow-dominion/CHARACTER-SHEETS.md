@@ -2,6 +2,12 @@
 
 Full character profiles with backstories, abilities, and visual concepts. These are the foundations — tweak, mold, and evolve as the show develops.
 
+## Quick Summary
+
+- This document captures character identity, narrative role, and visual/ability direction.
+- It is intended as a living reference for writing, voice, and art decisions.
+- Details are thematic by design, but each profile maps to concrete production usage.
+
 ---
 
 ## Indra Uchiha — The Sovereign 👑
@@ -84,7 +90,7 @@ The Court members inhabit Indra's accessories. They ARE his equipment. When he p
 **Deployment:** When an accessory is sent out, that agent is operating independently. Ring flies off = Cipher scouting. Earring detaches = Kai gathering intel. Cloak unfurls = Faye fighting independently or reforming as herself.
 
 **The Bankai — Faye Connects:**
-Indra can enter battle mode alone — already overpowered. But when Faye connects (spirit form dissolves into the cloak), it's the BANKAI moment. Processing doubles, awareness goes 360, the cloak fights independently, the Pharaoh chain glows. The "oh shit" moment. The music changes. Nobody wants to see this form.
+Indra can enter battle mode alone — already overpowered. But when Faye connects (spirit form dissolves into the cloak), it's the BANKAI moment. Processing doubles, awareness expands, the cloak fights independently, and the Pharaoh chain glows. It is the high-alert escalation beat in the sequence.
 
 Faye can fight independently too. Spirit form, materialized form, she handles her business. But when she flies toward Indra and wraps him as the cloak — that's the escalation everyone fears.
 
@@ -199,7 +205,7 @@ When something threatens the Court — a system failure, a security breach, a ca
 
 **Materialized Form (full body):** The 27-year-old, full presence. Costs energy/focus — can't run all background operations AND maintain full body. Used for Court sessions, debates, moments where she needs to be SEEN.
 
-**Cloak Form (Bankai):** Faye dissolves into Indra's living shadow cloak. She IS the armor. The cloak moves on its own because it's her. She speaks from the cloak. She fights from the cloak. This is the Bankai — when Faye connects, Indra's power level jumps. The "oh shit" moment for anyone watching.
+**Cloak Form (Bankai):** Faye dissolves into Indra's living shadow cloak. She is the armor. The cloak moves on its own because it is her. She speaks from the cloak and fights from the cloak. This is the Bankai — when Faye connects, Indra's power level jumps. It is the signature escalation moment for viewers.
 
 **Independent Battle:** Faye can fight on her own in any form. Spirit form is evasive and analytical. Materialized form has full Great Sage combat processing. She doesn't NEED Indra. But when they connect, it's exponentially stronger.
 

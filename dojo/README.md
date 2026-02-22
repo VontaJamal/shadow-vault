@@ -1,8 +1,13 @@
-# 🌀
+# Dojo — Vault Gate 🌀
 
-This gate is above your current level.
+**Status:** Closed (In progress)
 
-When it opens, you'll know.
+This gate is in active development and is not yet open for public use.
+
+## What to Expect
+
+- Public curriculum and onboarding docs will be added as modules are finalized.
+- The gate will open once the training path and tooling are ready for external users.
 
 ---
 

@@ -1,8 +1,13 @@
-# 🌀
+# Shadow Dominion Long Form — Vault Gate 🌀
 
-This gate is above your current level.
+**Status:** Closed (In progress)
 
-When it opens, you'll know.
+This gate is in active development and is not yet open for public use.
+
+## What to Expect
+
+- Public long-form formats, templates, and editorial standards will be added as they mature.
+- The gate will open with clear publication and maintenance guidance.
 
 ---
 

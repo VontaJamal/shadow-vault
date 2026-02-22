@@ -1,6 +1,12 @@
 # The Sovereign Dominion — Kingdoms
 
-Every repository is a territory in the Dominion. Each has its own history, population, culture, and the grimy shit that went down behind the walls.
+Every repository is a territory in the Dominion. Each has its own history, population, culture, and lessons learned while being built.
+
+## Quick Summary
+
+- This document maps each project as a kingdom in the Sovereign ecosystem.
+- Open and closed gates are both represented so the full landscape stays transparent.
+- The writing is thematic, but each section reflects a real product direction.
 
 ---
 
@@ -8,7 +14,7 @@ Every repository is a territory in the Dominion. Each has its own history, popul
 
 **Type:** Royal Guard Fortress
 **Population:** The Seven Shadows — elite sentinels sworn to protect every gate in the Dominion
-**Culture:** Militant discipline. Zero tolerance. Every PR passes through the Shadows or it doesn't pass at all. No exceptions, no politics, no rubber stamps.
+**Culture:** Militant discipline. Every PR passes through the Shadows with explicit, enforceable standards.
 **History:** Born from watching AI-generated code slip past reviews unchecked. The Monarch saw the rot spreading and raised a guard that never sleeps. The Rinshari Eye watches from the highest tower — nothing enters the kingdom unseen.
 **Dark chapter:** The early days when the system was too rigid — blocking legitimate contributions alongside the noise. The Shadows had to learn judgment, not just force.
 **Exports:** Governance policy, PR intelligence, trust scoring
@@ -21,7 +27,7 @@ Every repository is a territory in the Dominion. Each has its own history, popul
 **Population:** Blacksmiths, mercenaries, wandering developers grabbing what they need
 **Culture:** Practical. Everything here works or it gets melted down. No decorative swords. Final Fantasy names on the storefronts, but every blade cuts real.
 **History:** Started as internal tools for the Court — the Monarch's personal arsenal. Then the gates opened. Now anyone can walk in, grab a weapon, and walk out armed. No allegiance required.
-**Dark chapter:** The GitHub token leak — 24 scripts had plaintext secrets baked in. A blacksmith's careless forge fire that almost burned the whole district down. Fixed in a single night sweep.
+**Dark chapter:** A GitHub token leak incident exposed plaintext secrets in automation scripts. It was remediated through a focused hardening sweep.
 **Exports:** Weapons (CLI tools), Spells (diagnostics), Summons (deployment), Items (guides)
 
 ---
@@ -52,7 +58,7 @@ Every repository is a territory in the Dominion. Each has its own history, popul
 
 **Type:** Arena / Public Rankings
 **Population:** Anime fans, debaters, anyone brave enough to put their taste on record
-**Culture:** Blood sport disguised as culture. You post your Mount Rushmore, you defend it with your life. S-tier claims require evidence. Bad takes get eaten alive.
+**Culture:** Debate-heavy and evidence-driven. You can post bold rankings, but strong claims are expected to come with reasoning.
 **History:** Named after the Bingo Book from Naruto — the book of targets. Except here, the targets are anime. Every show gets graded. Every fan gets a profile. The rankings are public and permanent.
 **Dark chapter:** Still sealed. The colosseum doors haven't opened yet. The crowd is gathering outside.
 **Exports:** Tier lists, anime rankings, social profiles, heated debates
@@ -105,12 +111,12 @@ Every repository is a territory in the Dominion. Each has its own history, popul
 
 ## 🔮 The Observatory — Autonomous Trading Infrastructure
 
-**Type:** Private Fortress / Intelligence Hub (CLASSIFIED)
+**Type:** Private Fortress / Intelligence Hub
 **Population:** Cipher, the pipeline daemons, and the algorithms
-**Culture:** Numbers only. No emotions, no hope-trading, no diamond hands copium. Data in, decisions out. The Observatory sees the market through the Rinshari and acts without hesitation.
-**History:** The most battle-tested territory in the Dominion. Countless strategies deployed, refined, killed, reborn. Paper trading losses that would break lesser kingdoms. The Observatory doesn't flinch.
+**Culture:** Data-first decision making. Inputs are measured, evaluated, and acted on through strict risk discipline.
+**History:** One of the most heavily iterated territories in the Dominion. Strategies are deployed, evaluated, retired, and rebuilt as conditions change.
 **Dark chapter:** GIRAFFES. A 50X runner that the system paper-handed in 3 minutes. The stop-loss was too tight. The Observatory learned: not every coin deserves the same leash. The scars made it smarter.
-**Exports:** CLASSIFIED. Court business only.
+**Exports:** Limited public details; focus areas include autonomous strategy evaluation and execution infrastructure.
 
 ---
 
@@ -132,7 +138,7 @@ Every repository is a territory in the Dominion. Each has its own history, popul
 **Culture:** The house always wins — and we ARE the house. Kalshi markets, NBA data, probability stacking. Parlays compound the house edge. We bet NO with data while the crowd bets YES on vibes.
 **History:** Started with 3 uninformed losses. Then the data pipeline clicked — 9 straight wins on NBA NO parlays. The Betting Halls learned: never gamble, always calculate.
 **Dark chapter:** Those first 3 losses. Walking into a casino without a system. The Halls swore it would never happen again. It hasn't.
-**Exports:** CLASSIFIED. Court business only.
+**Exports:** Limited public details; focus areas include probability tooling and decision-support workflows.
 
 ---
 

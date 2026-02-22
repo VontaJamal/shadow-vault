@@ -1,8 +1,13 @@
-# 🌀
+# Shadow Dominion Shorts — Vault Gate 🌀
 
-This gate is above your current level.
+**Status:** Closed (In progress)
 
-When it opens, you'll know.
+This gate is in active development and is not yet open for public use.
+
+## What to Expect
+
+- Public short-form content workflows will be documented as production stabilizes.
+- The gate will open with clear format constraints and release playbooks.
 
 ---
 

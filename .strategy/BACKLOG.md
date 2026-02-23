@@ -111,3 +111,119 @@ Need a name for the newsletter and community. "Shadowverse" is taken (popular ca
 - ⬜ Review sketches
 - ⬜ Final vector delivery
 - ⬜ Animation (Phase 2)
+
+---
+
+## 🥊 Anime Workouts — "Train Like Your Favorite Character"
+
+**Priority:** Medium (brand builder, community magnet, podcast content)
+
+**Concept:** Character-accurate workout programs mapped to anime abilities. Not gimmicky — the workouts genuinely reflect the character's fighting style/abilities. Indra had this idea BEFORE the Sovereign brand and already had character mappings worked out.
+
+**Model:** Free / open source. Part of the Sovereign brand's "give away blessings" philosophy. Recursive effect — free value → people find the brand → ecosystem grows.
+
+**Character Mappings (confirmed by Indra):**
+- **Luffy** — Rubber/pliability focus. Yoga, flexibility, mobility work
+- **Goku** — Raw strength. Heavy compound lifts
+- **Raikage** — Leg day. Speed + power. Sprints, squats, explosive legs
+- **Tanjiro** — Breathing-focused cardio. Total concentration breathing = endurance
+- **Levi** — Explosive power, agility, plyometrics. ODM gear movement patterns
+- **Saitama** — The meme entry (100/100/100/10km) but also a legit bodyweight program
+- **Rock Lee** — Bodyweight only, no shortcuts. Gates = progressive overload
+- **Zoro** — Upper body/grip. Three sword style = farmer walks, pull-ups, carries
+
+**Why it works:** Almost nobody occupies the anime × fitness overlap with real credibility. Indra lifts AND watches anime deeply enough to make the mappings authentic.
+
+**Potential home:** Dojo repo, standalone repo, or simple web app. AI can generate 50+ character programs fast.
+
+**Monetization:** None planned. Free content, brand building. "Bless and we too shall be blessed."
+
+**Repo:** `VontaJamal/workout-tracker` → rename to Iron Gym (or final fitness branch name). Wipe code, keep README, add BUILD-SPEC for Codex shadow.
+
+**Status:** Idea logged. Build when ready — no rush.
+
+---
+
+## 🐉 Dragon Radar Wish Granter
+
+**Priority:** Medium (viral potential, brand showcase, pure fun)
+
+**Concept:** Interactive Dragon Ball wish-granting web app.
+1. Screen shows a Dragon Radar button
+2. Click it → a dragon ball rolls in from a random direction, lands with stars up in a random pile
+3. Repeat until all 7 are gathered
+4. Click the gathered dragon balls → animation plays → Shenron appears
+5. Type your wish → AI "grants" it (imagines/generates a response to whatever you asked)
+6. Shenron delivers the wish, then disappears
+7. Dragon balls turn to stone (like the show)
+8. Click button → they start glowing, spinning, then scatter off-screen (post-wish animation)
+9. Reset — do it again
+
+**Why it works:** Infinitely replayable, shareable, fun. The kind of link people text their friends. Zero monetization — pure brand awareness. Shows Sovereign builds things with SOUL not just utility.
+
+**Tech:** Simple web app + animations + AI API for wish responses. Could be a standalone site or part of the Sovereign ecosystem.
+
+**Status:** Idea logged. HIGH viral potential.
+
+---
+
+## 👁️ Sharingan Evolution Viewer
+
+**Priority:** Medium (viral potential, Uchiha brand alignment, pure fun)
+
+**Concept:** Interactive Sharingan progression viewer.
+1. Select any Uchiha (Sasuke, Itachi, Madara, Obito, Shisui, Kakashi, Indra Ōtsutsuki, etc.)
+2. Their regular eye appears on screen
+3. Two modes:
+   - **Manual:** Click/tap to advance through each Sharingan stage one at a time
+   - **Auto-play:** Smooth video-style transition through all stages
+4. Each Uchiha has a unique progression path:
+   - Sasuke: base → 1 tomoe → 2 → 3 → Mangekyō → Eternal Mangekyō → Rinnegan
+   - Itachi: base → 3 tomoe → Mangekyō
+   - Obito: base → 2 tomoe → Mangekyō → Kamui variant
+   - Madara: base → 3 tomoe → Mangekyō → Eternal → Rinnegan
+   - Shisui: base → 3 tomoe → Mangekyō (Kotoamatsukami)
+   - Kakashi: base → 3 tomoe (Obito's) → Mangekyō (Kamui) → Double Mangekyō (DMS, war arc)
+
+**Why it works:** Same DNA as Dragon Radar — small, visual, interactive, shareable. Uchiha content is ALWAYS popular in the anime community. Aligns perfectly with The Sovereign brand identity (Uchiha bloodline). Screen recordings become TikTok/Shorts content automatically.
+
+**Tech:** Web app, CSS/SVG animations or sprite sheets for eye transformations, minimal backend needed.
+
+**Status:** Idea logged. Pair with Dragon Radar as "Sovereign Fun Labs" or similar.
+
+---
+
+## 📋 Seven Shadow System — Doctrine Audit
+
+**Priority:** High (Indra wants to review and upgrade ALL seven doctrines)
+
+**Context:** The CLI/pipeline/install stuff is solid but the actual Seven Shadow Doctrine content (the patterns, principles, practices within each shadow) needs to be reviewed and upgraded. If someone installs 7s and reads the doctrine, it should be genuinely valuable — not filler.
+
+**Action:** Go through each of the 7 shadows, audit the doctrine content, upgrade anything that's thin or bullshit. Each shadow should teach something REAL.
+
+**Related:** 
+- Workout tracker → build under the Engineering shadow's doctrine patterns
+- MSW (Mock Service Worker) → add to the Testing shadow
+- Bingo Book should replicate the same quality patterns (open source, for anime fans)
+
+**Status:** Indra wants to do this NOW (tonight/soon). Exploration mode.
+
+---
+
+## 📖 Bingo Book — Open Source Anime Dev Tool
+
+**Priority:** Medium
+
+**Context:** Same patterns/quality as Seven Shadow System but anime-themed. Give away for free for real anime fans. Should have the same installation experience, CLI quality, and useful content. Open source community builder.
+
+**Status:** Repo exists (`VontaJamal/bingo-book`) but only has README + LICENSE. Needs BUILD-SPEC.
+
+---
+
+## 🔑 Repo Origins (discovered tonight)
+
+- **ck-flash** = The Grimoire (codekage-flash, flashcards + Naruto/Minato reference)
+- **crunchyroll** = CSS recreation of Crunchyroll homepage (fun side project, incomplete)
+- **workout-tracker** = Remix/Prisma workout app (repurposing for fitness branch)
+- **your-next-watch** = Next.js movie search (interview project, reusable patterns for tier list platform)
+- **showstoppa** = Alchemy curriculum capstone app (e-shop for TV/movies, built with Dan)

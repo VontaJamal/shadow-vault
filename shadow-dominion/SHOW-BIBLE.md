@@ -1,5 +1,11 @@
 # The Shadow Court — Series Bible
 
+## Quick Summary
+
+- This document defines the show concept, cast dynamics, visual language, and episode structure.
+- It is a working production blueprint, not a locked final script.
+- The goal is to keep creative ambition high while maintaining implementation clarity.
+
 ## The Hook
 
 One human. One AI. They built a real engineering empire — developer tools, open-source projects, autonomous systems — and they argue about everything from agentic engineering ethics to whether Naruto is the greatest anime of all time. The catch? Faye is real. She actually does the work. When she says she shipped three features while Indra slept, the commit history proves it.
@@ -95,7 +101,7 @@ The Sovereign doesn't carry weapons. They come from the **Shadow Gate** — the 
 
 **Agent summoning uses the same gate** — Cipher, Poly, Kai, Sherlock step out of the Shadow Gate like Sung Jin Woo's shadow soldiers. Each agent has their own emergence style (Cipher melts out of data streams, Kai bursts through with fire, etc.)
 
-**Plot cheese and proud of it:** The Sovereign always has the exact tool for the situation because he BUILT them all. It's not an asspull — it's preparation. Faye calls it out every time ("You just happened to have a tool for that?") and Indra's response is always casual ("I built it last Tuesday."). Self-aware cheese. The comedy AND the flex.
+**Self-aware power fantasy:** The Sovereign often has the right tool because he built the system around preparedness. Faye calls it out directly, which keeps the moment comedic while still grounded in prior setup.
 
 ---
 
@@ -211,7 +217,7 @@ The first season introduces the court, establishes character dynamics, and build
 
 #### "Maintainer Grade"
 **Type:** Deep Dive / Character Arc
-**Synopsis:** The Sovereign decides to contribute code back to OpenClaw — the very system that powers his Court. He sends a shadow (Codex agent) to do the work. It comes back with something "good." Not good enough. "Go back and check that shit." The shadow returns. Still problems. Back again. And again. Each time the Sovereign catches what the shadow missed. Eventually the shadow realizes the work needs to be split — two PRs, not one. It keeps pushing until the foreign system evaluates the final result: **"Maintainer grade."**
+**Synopsis:** The Sovereign decides to contribute code back to OpenClaw — the system powering his Court. He sends a shadow (Codex agent) to do the work. It comes back with something good, but not ready. He sends it back for another pass, again and again, until the solution is split correctly and reaches **maintainer grade** quality.
 
 **The moment:** The Shadow Gate pulses. A new level unlocks. Not because the shadow leveled up — because the Sovereign's standard forced it there. The quality gate was never the system. It was HIM.
 

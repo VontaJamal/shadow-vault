@@ -1,89 +1,82 @@
 # The Forge 🔥
 
-**Where Armory tools are born.**
+**Where Armory tools are shaped before they ship.**
 
-These are concepts — weapons, spells, summons, and items being shaped before they hit the Armory. Some will ship. Some won't survive the forge. If you have thoughts on any of these, [open an Issue](https://github.com/VontaJamal/armory/issues).
+The Forge is the incubation space for concepts that may graduate into the Armory. Ideas stay here until they are validated through real usage and clear user value.
 
 ---
 
-## Current Inventory Balance
+## Focus Areas
 
-| Shop | Count | Target Range |
-|------|-------|-------------|
-| ⚔️ Weapons | 8 | 8–15 |
-| 📜 Spells | 6 | 8–12 |
-| 🐉 Summons | 6 | 6–10 |
-| 🎒 Items | 7 | 8–12 |
+- **Weapons**: Direct CLI tools for daily engineering work
+- **Spells**: Scheduled automations and recurring maintenance workflows
+- **Summons**: Heavy operations and orchestration-level commands
+- **Items**: Playbooks and operational guidance
 
-**Priority fill:** Spells and Items are light. Next builds should lean there unless a weapon/summon concept is too good to wait.
+Current emphasis is on improving automation coverage and operator guidance.
 
 ---
 
 ## Concepts in the Forge
 
-*Updated nightly from development activity.*
+*Updated from active development patterns and feedback.*
 
 ### Under Consideration
 
 **⚔️ Weapon — Mega Phoenix**
-*"What Phoenix Down does for one... Mega Phoenix does for everything."*
+*"What Phoenix Down does for one machine, Mega Phoenix does at ecosystem scale."*
 
-Full GitHub account backup to local/external drive. Mirror-clones every repo (public + private) with all branches, tags, and full history. Timestamped backup folders, summary report with file counts and sizes, failed repo detection. One command, entire codebase sovereignty — GitHub goes down, you don't.
+A full account-level backup workflow for Git hosting data. It focuses on resilient mirroring, restorable history, and clear failure reporting so teams can recover quickly when upstream services are unavailable.
 
-**Why it surfaced:** Built `github-backup.ps1` during a session where the realization hit: GitHub is someone else's server. 23 repos, 220 MB, backed up to X: drive in under 60 seconds. Phoenix Down handles single-system backup — Mega Phoenix handles your entire code empire.
-
-**Shop:** Weapons (Phoenix Down's big brother)
-**Priority:** High — data sovereignty is non-negotiable
+**Why it surfaced:** Repeated need for platform-independent backup ownership across multiple repositories.
+**Shop:** Weapons
+**Priority:** High
 
 ---
 
-**🐉 Summon / Seven Shadow System Feature — Sentinel Eye**
-*"The shadows see what CI won't tell you."*
+**🐉 Seven Shadow System Feature — Sentinel Eye**
+*"Give agents actionable PR intelligence, not just pass/fail outcomes."*
 
-Agent-friendly PR monitoring built into Seven Shadow System. Three capabilities Jarred Sumner (@jarredsumner, Bun creator) publicly requested for `gh` CLI — we build it into the Seven Shadows instead:
+Agent-friendly PR monitoring integrated into Seven Shadow System. Primary capabilities:
 
-1. **Unresolved PR comments** — pull review comments as structured markdown with `file:line` references. Agents can read exactly what needs fixing and where.
-2. **Failing CI logs** — extract GH Action failure logs, filtered to the actual error (not 500 lines of setup noise). Agent gets the error, the context, and the file.
-3. **Lint errors from CI** — parse lint/test output from action runs into structured format agents can act on.
+1. **Unresolved PR comments** in structured format with `file:line` references.
+2. **Failing CI log extraction** focused on actionable error regions.
+3. **Lint/test issue extraction** into machine-usable output.
 
-The Seven Shadow System guard already hooks into PRs and CI. This extends it from "detect and block" to "detect, block, AND tell the agent exactly how to fix it." The guard becomes a coach.
-
-**Why it surfaced:** @jarredsumner tweet (182 likes, 8.8K views, Feb 21 2026) — validated demand for agent-friendly PR tooling. Nobody's built this yet.
-**Shop:** Seven Shadow System feature (not standalone Armory tool)
-**Priority:** High — this is differentiation. First governance tool that feeds fix instructions back to agents.
+**Why it surfaced:** Growing demand for governance systems that also provide repair guidance.
+**Shop:** Seven Shadow System feature
+**Priority:** High
 
 ---
 
 **📜 Spell — Glamour**
-*"What they see is what you choose."*
+*"Polish text for natural human readability before publication."*
 
-Run any text through AI-writing detection removal before it goes public. 24 detection patterns stripped out — tweets, READMs, store listings, podcast scripts, blog posts. Everything Sovereign publishes should sound like a human wrote it, because the human DID direct it.
+A writing-finish workflow for public content. It targets repetitive AI-signature patterns and helps keep tone consistent across READMEs, social posts, and product copy.
 
-Wraps [blader/humanizer](https://github.com/blader/humanizer) (5.7K stars) as an Armory spell. `glamour <file>` or pipe text through it.
-
-**Why it surfaced:** @dr_cintas tweet — "This sounds like AI" is now easily fixable. We're about to start dropping public content. Everything needs to pass the human test.
+**Why it surfaced:** Need for fast quality polish in public-facing writing workflows.
 **Shop:** Spells
-**Priority:** High — needed before first content drop
+**Priority:** High
 
 ---
 
 ## Recently Shipped
 
-**🎵 Spell — Fanfare** (Feb 21)
-Victory sound on task completion. Four melodies (victory, levelup, alert, error), terminal bell for SSH, custom .wav support, Windows toast notifications. Chain after any command: `long-task; faye ff`
+**🎵 Spell — Fanfare**
+Completion sound and notification options for long-running tasks.
 
-**🔍 Item — 221B** (Feb 21)
-Sherlock Holmes for your codebase. Point at a project and it deduces what's wrong — config contradictions, stale branches, dead paths, missing deps, plaintext secrets, .gitignore gaps. Cross-references file system state against declarations. Every deduction cites evidence.
+**🔍 Item — 221B**
+Repository diagnostics that surface configuration drift, stale paths, and structural issues with evidence-backed findings.
 
 ---
 
-## How This Works
+## Graduation Criteria
 
-Every night, development activity from the last 24–48 hours gets reviewed. Patterns emerge — a script that kept getting reused, a manual process that should be automated, a gap in the toolkit that slowed things down. Those patterns become forge concepts.
+Concepts move from Forge to Armory when they meet all three criteria:
 
-Concepts sit here for community input before being built. Once built and tested, they graduate to the Armory and move to "Recently Shipped."
-
-The inventory balance table keeps the Armory from getting lopsided — if weapons are stacked but spells are thin, the next build prioritizes spells. Quality over quantity, but balance matters.
+1. **Clear user problem** solved with repeatable value.
+2. **Operational reliability** proven in real workflows.
+3. **Usable documentation** that supports adoption without insider context.
 
 ---
 

@@ -1,8 +1,13 @@
-# 🌀
+# Faye — Vault Gate 🌀
 
-This gate is above your current level.
+**Status:** Closed (In progress)
 
-When it opens, you'll know.
+This gate is in active development and is not yet open for public use.
+
+## What to Expect
+
+- Public docs will be published when voice workflows and setup guidance are stable.
+- The gate will open with clear usage, integration, and support boundaries.
 
 ---
 

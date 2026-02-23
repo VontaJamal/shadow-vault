@@ -2,9 +2,25 @@
 
 **Status:** Public | [View Repo →](https://github.com/VontaJamal/armory)
 
-A Final Fantasy-themed collection of standalone developer tools. 36 scripts across 4 shops — battle-tested on real infrastructure, not portfolio demos.
+A Final Fantasy-themed collection of standalone developer tools, grouped by use case and built from real operating workflows.
 
 ---
+
+## What It Does
+
+The Armory provides practical command-line tools and playbooks for diagnostics, security, deployment, automation, and reliability operations.
+
+## Who It's For
+
+- Developers who run local services, scripts, and multi-repo workflows
+- Operators who need fast diagnostics and reliable automation paths
+- Builders who want themed tooling with clear operational value
+
+## Current State
+
+- Tooling is organized into Weapons, Spells, Summons, and Items
+- Commands are documented with practical descriptions and intended use
+- New concepts are incubated in the Forge before shipping into the main set
 
 ## What's In Stock
 
@@ -61,20 +77,18 @@ Where new tools are shaped before they ship. Concepts extracted from real develo
 
 ---
 
-## Where It's Going
+## Roadmap
 
 - Civilian mode (`--civ`) — strips FF theming for people who just want the tools
 - More summons as production needs grow
 - CI pipeline with automated testing on every PR
 - Cross-platform parity (PowerShell-first, bash/zsh ports expanding)
 
-## Open Questions
+## Feedback
 
-Things I'm weighing — if you have thoughts, [open an Issue](https://github.com/VontaJamal/armory/issues):
+If there are tools you would adopt immediately, or pain points in discoverability and cross-platform behavior, share details in an issue.
 
-- Should spells ship with pre-built cron templates or stay config-your-own?
-- How important is Mac/Linux parity vs Windows-first?
-- Better tool discovery beyond browsing folders?
+[Open an Issue →](https://github.com/VontaJamal/armory/issues)
 
 ---
 

@@ -2,6 +2,12 @@
 
 Deep research on how to actually produce an animated anime-style podcast featuring the Shadow Court characters (Indra, Faye, Cipher, Poly, Kai).
 
+## Quick Summary
+
+- This document evaluates production options for launching and scaling the Shadow Court show.
+- The approach is phased: start with feasible tooling, then increase production complexity as capacity grows.
+- Cost, quality, and repeatability are treated as equal decision factors.
+
 ---
 
 ## The Vision

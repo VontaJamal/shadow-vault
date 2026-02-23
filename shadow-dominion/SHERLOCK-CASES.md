@@ -2,6 +2,12 @@
 
 Every weapon in the Armory was forged because something went wrong. Sherlock narrates the investigation. The case IS the tutorial. The weapon is the solution.
 
+## Quick Summary
+
+- Each case documents a real operational failure and the tool or guide forged from it.
+- Case narratives are intentionally thematic, but they map to practical engineering lessons.
+- This file doubles as both lore and troubleshooting catalog.
+
 Format: Short-form video (60-90s for Shorts, 3-5 min for full), Sherlock narrates with evidence floating around him, ends with the weapon reveal.
 
 ---
@@ -9,7 +15,7 @@ Format: Short-form video (60-90s for Shorts, 3-5 min for full), Sherlock narrate
 ## Weapons
 
 ### Case #001: "A Study in Credentials" — Jutsu
-**The crime:** API keys scattered across plaintext files. One wrong `git push` away from disaster. 24 scripts had a GitHub token baked in — discovered during a midnight audit.
+**The crime:** API keys scattered across plaintext files. One wrong `git push` away from disaster. Multiple scripts had a GitHub token baked in — discovered during a midnight audit.
 **The investigation:** Sherlock traces the token through every file it touched. Shows how one leaked key cascades into full account compromise.
 **The weapon forged:** Jutsu — encrypted vault for API keys. Named swap profiles. One command to rotate. Never touches plaintext again.
 **Holmes homage:** "A Study in Scarlet" — the first case, the one that started it all.
@@ -121,9 +127,9 @@ Format: Short-form video (60-90s for Shorts, 3-5 min for full), Sherlock narrate
 
 ### Case #022: "The Bruce-Partington Plans" — Agent Comms
 **The crime:** Agents could talk to Indra but not to each other. Siloed intelligence. Left hand doesn't know what right hand is doing.
-**The investigation:** Sherlock shows classified information (agent sessions) being duplicated because nobody's sharing. Waste of resources.
+**The investigation:** Sherlock shows sensitive operational information (agent sessions) being duplicated because systems were isolated. The result was avoidable waste and coordination drag.
 **The guide delivered:** Agent Comms — cross-agent communication wiring.
-**Holmes homage:** "The Adventure of the Bruce-Partington Plans" (classified government documents)
+**Holmes homage:** "The Adventure of the Bruce-Partington Plans" (sensitive government plans)
 
 ### Case #023: "The Empty Service" — NSSM Services
 **The crime:** A Windows service that should be running... isn't. The slot is empty. Nobody registered it properly.

@@ -60,6 +60,39 @@ A writing-finish workflow for public content. It targets repetitive AI-signature
 
 ---
 
+**⚔️ Weapon — Warp Gate**
+*"Step through the portal. Land on any machine. No keys, no config, no hesitation."*
+
+A connection manager for multi-machine setups. Stores SSH targets with aliases, auto-selects identity keys, and handles SCP transfers in both directions with a single command. Replaces manual `ssh -i ~/.ssh/id_ed25519 devon@192.168.1.188` calls.
+
+**Why it surfaced:** Every session involves 3-5 manual SSH commands to Windows. Multi-machine orchestration is the #1 daily friction point across the entire ecosystem.
+**Shop:** Weapons
+**Priority:** High
+
+---
+
+**📜 Spell — Chronicle**
+*"The kingdom remembers what the king forgets."*
+
+An automated nightly git-log synthesizer that scans all repos, groups commits by theme, and produces a human-readable daily changelog. Feeds into the Forge, content pipeline, and weekly public output.
+
+**Why it surfaced:** The nightly synthesis manually reconstructs git history every night. This should be a 1-command operation that outputs structured markdown.
+**Shop:** Spells
+**Priority:** High
+
+---
+
+**🛡️ Item — Rebrand Kit**
+*"Change the name. Keep the soul."*
+
+A playbook and script for coordinating renames across an entire ecosystem — repo names, package names, CLI commands, README references, submodule pointers, badge URLs. Tracks what was renamed, what still references the old name, and generates a completion checklist.
+
+**Why it surfaced:** This week alone saw 4 rename waves (ck-flash→Grimoire, sss→7s, Monarch System→Shadowgate, rinshari-ui→rinshari-eye). Each required manual multi-repo grep-and-replace. This should be automated.
+**Shop:** Items
+**Priority:** Medium
+
+---
+
 ## Recently Shipped
 
 **🎵 Spell — Fanfare**

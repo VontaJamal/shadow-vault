@@ -93,6 +93,39 @@ A playbook and script for coordinating renames across an entire ecosystem — re
 
 ---
 
+**⚔️ Weapon — Deathblow**
+*"One command. Every repo. Force aligned."*
+
+A cross-repo enforcement tool that runs a single operation (lint rule, badge inject, submodule bump, config patch) across all Sovereign repositories in one pass. Dry-run mode shows what would change, `--execute` applies it. Generates a PR per repo or direct-pushes based on branch protection.
+
+**Why it surfaced:** This week's "Protected by the Seven Shadows" badge rollout and "Shadow of Access" rebrand wave both required touching 10+ repos manually. Codex handled some via PRs, but the coordination was ad-hoc. A single `deathblow --apply badge` command would have done it in 30 seconds.
+**Shop:** Weapons
+**Priority:** High
+
+---
+
+**📜 Spell — Scryer**
+*"The court watches the world so you don't have to."*
+
+A scheduled web intelligence scraper that monitors specific sources (ANN for anime, CoinDesk/DexScreener for crypto, OpenClaw GitHub releases, Anthropic blog) and produces a structured daily digest. Replaces manual web searches during nightly synthesis and heartbeats. Outputs markdown with priority-tagged items.
+
+**Why it surfaced:** Every nightly synthesis and every other heartbeat burns 3-5 web search calls that hit rate limits. Today's synthesis hit Brave API rate limits on 3 of 5 searches. A pre-cached scrape running at off-peak hours solves this completely.
+**Shop:** Spells
+**Priority:** High
+
+---
+
+**🛡️ Item — Garrison**
+*"Know thy kingdom's borders."*
+
+A repo health dashboard generator that scans all Sovereign repos and produces a single markdown report: uncommitted changes, behind-remote count, stale branches, missing badges, broken submodule pointers, CI status. Think `faye repos` but comprehensive and exportable.
+
+**Why it surfaced:** Sherlock's tools (git-intel, cross-repo, dep-watch) each solve a piece of this but require separate invocations. A unified garrison report would feed into the nightly synthesis and Sherlock's 221B sweeps seamlessly.
+**Shop:** Items
+**Priority:** Medium
+
+---
+
 ## Recently Shipped
 
 **🎵 Spell — Fanfare**

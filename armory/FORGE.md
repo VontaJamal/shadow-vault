@@ -63,7 +63,7 @@ A writing-finish workflow for public content. It targets repetitive AI-signature
 **⚔️ Weapon — Warp Gate**
 *"Step through the portal. Land on any machine. No keys, no config, no hesitation."*
 
-A connection manager for multi-machine setups. Stores SSH targets with aliases, auto-selects identity keys, and handles SCP transfers in both directions with a single command. Replaces manual `ssh -i ~/.ssh/id_ed25519 devon@192.168.1.188` calls.
+A connection manager for multi-machine setups. Stores SSH targets with aliases, auto-selects identity keys, and handles SCP transfers in both directions with a single command. Replaces manual `ssh -i ~/.ssh/id_ed25519 user@your-server` calls.
 
 **Why it surfaced:** Every session involves 3-5 manual SSH commands to Windows. Multi-machine orchestration is the #1 daily friction point across the entire ecosystem.
 **Shop:** Weapons
